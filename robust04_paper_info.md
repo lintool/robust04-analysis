@@ -1,6 +1,7 @@
 # Robust04 Effectiveness  
 
 | paper | is neural paper | baseline AP | best AP |  
+:-------|-----------------|-------------|----------  
 | Diaz (CIKM 2005) | no | 0.2625 | 0.2626 |  
 | Liu et al. (CIKM 2005) | no | 0.3574 | 0.327 |  
 | He and Ounis (SIGIR 2005) | no | 0.2724 | 0.2858 |  
