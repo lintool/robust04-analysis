@@ -1,0 +1,1312 @@
+[
+  {
+    "short_cite": "Diaz (CIKM 2005)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.2625
+    }, 
+    "baseline": {
+      "AP": 0.2626
+    }
+  }, 
+  {
+    "short_cite": "Liu et al. (CIKM 2005)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.3574
+    }, 
+    "baseline": {
+      "AP": 0.327
+    }
+  }, 
+  {
+    "short_cite": "He and Ounis (SIGIR 2005)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.2724
+    }, 
+    "baseline": {
+      "AP": 0.2858
+    }
+  }, 
+  {
+    "short_cite": "Diaz and Metzler (SIGIR 2006)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.353, 
+      "gMAP": 0.2275
+    }, 
+    "baseline": {
+      "AP": 0.3214, 
+      "gMAP": 0.1711
+    }
+  }, 
+  {
+    "short_cite": "Fang and Zhai (SIGIR 2006)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.302, 
+      "gMAP": 0.175
+    }, 
+    "baseline": {
+      "AP": 0.248, 
+      "gMAP": 0.142
+    }
+  }, 
+  {
+    "short_cite": "Amati (ECIR 2006)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.3052, 
+      "R-precision": 0.2979, 
+      "P@5": 0.4876, 
+      "P@10": 0.443
+    }, 
+    "baseline": {
+      "AP": 0.2984, 
+      "R-precision": 0.2939, 
+      "P@5": 0.4843, 
+      "P@10": 0.4373
+    }
+  }, 
+  {
+    "short_cite": "Diaz (IRJ 2007)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.3068
+    }, 
+    "baseline": {
+      "AP": 0.2961
+    }
+  }, 
+  {
+    "short_cite": "He and Ounis (TOIS 2007)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.2907
+    }, 
+    "baseline": {
+      "AP": 0.2777
+    }
+  }, 
+  {
+    "short_cite": "Zhang et al. (CIKM 2007)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.364
+    }, 
+    "baseline": {
+      "AP": 0.333
+    }
+  }, 
+  {
+    "short_cite": "Troy and Zhang (SIGIR 2007)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.2628, 
+      "P@10": 0.4422
+    }, 
+    "baseline": {
+      "AP": 0.2327, 
+      "P@10": 0.4181
+    }
+  }, 
+  {
+    "short_cite": "Vechtomova and Karamuftuoglu (IPM 2008)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.2753, 
+      "R-precision": 0.3141, 
+      "P@10": 0.4635
+    }, 
+    "baseline": {
+      "AP": 0.2799, 
+      "R-precision": 0.3041, 
+      "P@10": 0.4462
+    }
+  }, 
+  {
+    "short_cite": "Blanco and Barreiro (ECIR 2008)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.2967, 
+      "P@10": 0.4984
+    }, 
+    "baseline": {
+      "AP": 0.2844, 
+      "P@10": 0.4791
+    }
+  }, 
+  {
+    "short_cite": "Bendersky and Croft (SIGIR 2008)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.262, 
+      "nDCG@20": 0.4854
+    }, 
+    "baseline": {
+      "AP": 0.2569, 
+      "nDCG@20": 0.4911
+    }
+  }, 
+  {
+    "short_cite": "Meij et al. (SIGIR 2008)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.2689, 
+      "P@10": 0.4289
+    }, 
+    "baseline": {
+      "AP": 0.243, 
+      "P@10": 0.4056
+    }
+  }, 
+  {
+    "short_cite": "Zighelnic and Kurland (SIGIR 2008)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.293
+    }, 
+    "baseline": {
+      "AP": 0.299
+    }
+  }, 
+  {
+    "short_cite": "Xu et al. (SIGIR 2008)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.2335
+    }, 
+    "baseline": {
+      "AP": 0.2294
+    }
+  }, 
+  {
+    "short_cite": "Wu et al. (IPM 2009)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.3522
+    }, 
+    "baseline": {
+      "AP": 0.3465
+    }
+  }, 
+  {
+    "short_cite": "Clinchant and Gaussier (ICTIR 2009)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.274, 
+      "P@10": 0.47
+    }, 
+    "baseline": {
+      "AP": 0.269, 
+      "P@10": 0.458
+    }
+  }, 
+  {
+    "short_cite": "Soskin et al. (ICTIR 2009)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.288
+    }, 
+    "baseline": {
+      "AP": 0.307
+    }
+  }, 
+  {
+    "short_cite": "Collins-Thompson (ICTIR 2009)", 
+    "is_nn_paper": "no", 
+    "best": {}, 
+    "baseline": {}
+  }, 
+  {
+    "short_cite": "Zhu et al. (ECIR 2009)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "nDCG@10": 0.415, 
+      "P@10": 0.407
+    }, 
+    "baseline": {
+      "nDCG@10": 0.386, 
+      "P@10": 0.382
+    }
+  }, 
+  {
+    "short_cite": "Lease et al. (ECIR 2009)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.2733
+    }, 
+    "baseline": {
+      "AP": 0.2591
+    }
+  }, 
+  {
+    "short_cite": "Collins-Thompson (CIKM 2009)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.2451, 
+      "P@20": 0.3458
+    }, 
+    "baseline": {
+      "AP": 0.2441, 
+      "P@20": 0.3252
+    }
+  }, 
+  {
+    "short_cite": "Xu et al. (SIGIR 2009)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.3002
+    }, 
+    "baseline": {
+      "AP": 0.2823
+    }
+  }, 
+  {
+    "short_cite": "Zhu et al. (SIGIR 2009)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "nDCG@10": 0.184, 
+      "AP": 0.226, 
+      "P@10": 0.41
+    }, 
+    "baseline": {
+      "nDCG@10": 0.179, 
+      "AP": 0.223, 
+      "P@10": 0.381
+    }
+  }, 
+  {
+    "short_cite": "Wang and Zhu (SIGIR 2009)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "nDCG@10": 0.204, 
+      "AP": 0.249, 
+      "P@10": 0.438
+    }, 
+    "baseline": {
+      "nDCG@10": 0.191, 
+      "AP": 0.231, 
+      "P@10": 0.416
+    }
+  }, 
+  {
+    "short_cite": "Lease (SIGIR 2009)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.3182
+    }, 
+    "baseline": {
+      "AP": 0.3052
+    }
+  }, 
+  {
+    "short_cite": "Kalmanovich and Kurland (SIGIR 2009)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.307
+    }, 
+    "baseline": {
+      "AP": 0.304
+    }
+  }, 
+  {
+    "short_cite": "Cormack et al. (SIGIR 2009)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.3686
+    }, 
+    "baseline": {
+      "AP": 0.3652
+    }
+  }, 
+  {
+    "short_cite": "Bendersky et al. (SIGIR 2009)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.2516
+    }, 
+    "baseline": {
+      "AP": 0.2584
+    }
+  }, 
+  {
+    "short_cite": "Zheng and Fang (ECIR 2010)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.2578, 
+      "P@10": 0.4237
+    }, 
+    "baseline": {
+      "AP": 0.2421, 
+      "P@10": 0.4032
+    }
+  }, 
+  {
+    "short_cite": "Bendersky et al. (WSDM 2010)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.2721, 
+      "P@10": 0.4462
+    }, 
+    "baseline": {
+      "AP": 0.2661, 
+      "P@10": 0.441
+    }
+  }, 
+  {
+    "short_cite": "Piwowarski and Frommholz (CIKM 2010)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.228
+    }, 
+    "baseline": {
+      "AP": 0.242, 
+      "P@10": 0.228
+    }
+  }, 
+  {
+    "short_cite": "Lang et al. (CIKM 2010)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.3313
+    }, 
+    "baseline": {
+      "AP": 0.3057
+    }
+  }, 
+  {
+    "short_cite": "Xue et al. (CIKM 2010)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.2737, 
+      "P@10": 0.4542
+    }, 
+    "baseline": {
+      "AP": 0.2683, 
+      "P@10": 0.4321
+    }
+  }, 
+  {
+    "short_cite": "Dillon and Collins-Thompson (CIKM 2010)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.2256, 
+      "P@20": 0.3142
+    }, 
+    "baseline": {
+      "AP": 0.2248, 
+      "P@20": 0.3052
+    }
+  }, 
+  {
+    "short_cite": "Clinchant and Gaussier (SIGIR 2010)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.303
+    }, 
+    "baseline": {
+      "AP": 0.29
+    }
+  }, 
+  {
+    "short_cite": "Dang et al. (SIGIR 2010)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.2584
+    }, 
+    "baseline": {
+      "AP": 0.2538
+    }
+  }, 
+  {
+    "short_cite": "Park and Croft (SIGIR 2010)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.2621
+    }, 
+    "baseline": {
+      "AP": 0.2517
+    }
+  }, 
+  {
+    "short_cite": "Clinchant and Gaussier (IRJ 2011)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.285, 
+      "P@10": 0.477
+    }, 
+    "baseline": {
+      "AP": 0.277, 
+      "P@10": 0.277
+    }
+  }, 
+  {
+    "short_cite": "Clinchant and Gaussier  (ICTIR 2011)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.301
+    }, 
+    "baseline": {
+      "AP": 0.294
+    }
+  }, 
+  {
+    "short_cite": "Lv and Zhai (CIKM 2011)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.2571
+    }, 
+    "baseline": {
+      "AP": 0.2543
+    }
+  }, 
+  {
+    "short_cite": "Park et al. (CIKM 2011)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.2786, 
+      "P@10": 0.4614
+    }, 
+    "baseline": {
+      "AP": 0.2477, 
+      "P@10": 0.4217
+    }
+  }, 
+  {
+    "short_cite": "Karimzadehgan and Zhai (CIKM 2011)", 
+    "is_nn_paper": "no", 
+    "best": {}, 
+    "baseline": {}
+  }, 
+  {
+    "short_cite": "Hui et al. (CIKM 2011)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.2304
+    }, 
+    "baseline": {
+      "AP": 0.257
+    }
+  }, 
+  {
+    "short_cite": "Kotov and Zhai (CIKM 2011)", 
+    "is_nn_paper": "no", 
+    "best": {}, 
+    "baseline": {}
+  }, 
+  {
+    "short_cite": "Lv and Zhai (SIGIR 2011)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.2553, 
+      "P@10": 0.439
+    }, 
+    "baseline": {
+      "AP": 0.2543, 
+      "P@10": 0.4345
+    }
+  }, 
+  {
+    "short_cite": "Xue and Croft (SIGIR 2011)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.2755, 
+      "P@10": 0.4494
+    }, 
+    "baseline": {
+      "AP": 0.2683, 
+      "P@10": 0.4494
+    }
+  }, 
+  {
+    "short_cite": "Blanco and Lioma (IRJ 2012)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.2329, 
+      "P@10": 0.5
+    }, 
+    "baseline": {
+      "AP": 0.2243, 
+      "P@10": 0.4
+    }
+  }, 
+  {
+    "short_cite": "Lv and Zhai (ECIR 2012)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.2543
+    }, 
+    "baseline": {
+      "AP": 0.254
+    }
+  }, 
+  {
+    "short_cite": "Bendersky et al. (WSDM 2012)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.3068, 
+      "nDCG@20": 0.4486
+    }, 
+    "baseline": {
+      "AP": 0.2956, 
+      "nDCG@20": 0.4316
+    }
+  }, 
+  {
+    "short_cite": "Lv and Zhai (CIKM 2012)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.253, 
+      "P@10": 0.4229
+    }, 
+    "baseline": {
+      "AP": 0.2521, 
+      "P@10": 0.4225
+    }
+  }, 
+  {
+    "short_cite": "Xue and Croft (SIGIR 2012)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "nDCG@10": 0.453, 
+      "AP": 0.28, 
+      "P@10": 0.451
+    }, 
+    "baseline": {
+      "nDCG@10": 0.4478, 
+      "AP": 0.2683, 
+      "P@10": 0.4494
+    }
+  }, 
+  {
+    "short_cite": "Bendersky and Croft (SIGIR 2012)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.2779
+    }, 
+    "baseline": {
+      "AP": 0.2741
+    }
+  }, 
+  {
+    "short_cite": "Huang et al. (IPM 2013)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.2916
+    }, 
+    "baseline": {
+      "AP": 0.2857
+    }
+  }, 
+  {
+    "short_cite": "Na (IPM 2013)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.3225, 
+      "P@10": 0.5379
+    }, 
+    "baseline": {
+      "AP": 0.2987, 
+      "P@10": 0.4325
+    }
+  }, 
+  {
+    "short_cite": "Xue and Croft (TOIS 2013)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "nDCG@10": 0.452, 
+      "AP": 0.2788
+    }, 
+    "baseline": {
+      "AP": 0.2857, 
+      "P@10": 0.4493
+    }
+  }, 
+  {
+    "short_cite": "Clinchant and Gaussier (ICTIR 2013)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.3
+    }, 
+    "baseline": {
+      "AP": 0.287
+    }
+  }, 
+  {
+    "short_cite": "Rousseau and Vazirgiannis (CIKM 2013)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.2403, 
+      "P@10": 0.418
+    }, 
+    "baseline": {
+      "AP": 0.2547, 
+      "P@10": 0.4161
+    }
+  }, 
+  {
+    "short_cite": "Raiber and Kurland (SIGIR 2013)", 
+    "is_nn_paper": "no", 
+    "best": {}, 
+    "baseline": {}
+  }, 
+  {
+    "short_cite": "Maxwell and Croft (SIGIR 2013)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.2732, 
+      "R-precision": 0.3032
+    }, 
+    "baseline": {
+      "AP": 0.2657, 
+      "R-precision": 0.3005
+    }
+  }, 
+  {
+    "short_cite": "Deveaud et al. (SIGIR 2013)", 
+    "is_nn_paper": "no", 
+    "best": {}, 
+    "baseline": {}
+  }, 
+  {
+    "short_cite": "Symonds et al. (JASIST 2014)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.2869, 
+      "P@20": 0.3741
+    }, 
+    "baseline": {
+      "AP": 0.2707, 
+      "P@20": 0.3639
+    }
+  }, 
+  {
+    "short_cite": "Brosseau-Villeneuve et al. (IRJ 2014)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "nDCG@10": 0.5887, 
+      "AP": 0.3136, 
+      "gMAP": 0.1667, 
+      "P@10": 0.4609
+    }, 
+    "baseline": {
+      "nDCG@10": 0.4745, 
+      "AP": 0.2922, 
+      "P@10": 0.4273
+    }
+  }, 
+  {
+    "short_cite": "Kocabas et al. (IRJ 2014)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.2764
+    }, 
+    "baseline": {
+      "AP": 0.2718
+    }
+  }, 
+  {
+    "short_cite": "Zhao et al. (TOIS 2014)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.2666, 
+      "P@20": 0.4586
+    }, 
+    "baseline": {
+      "AP": 0.2562, 
+      "P@20": 0.3653
+    }
+  }, 
+  {
+    "short_cite": "Ye and Huang (SIGIR 2014)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.3082, 
+      "P@20": 0.3956
+    }, 
+    "baseline": {
+      "AP": 0.299, 
+      "P@20": 0.3701
+    }
+  }, 
+  {
+    "short_cite": "Dalton et al. (SIGIR 2014)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.3277, 
+      "P@20": 0.38, 
+      "nDCG@20": 0.424
+    }, 
+    "baseline": {
+      "AP": 0.2938, 
+      "P@20": 0.3882, 
+      "nDCG@20": 0.4344
+    }
+  }, 
+  {
+    "short_cite": "Lv and Zhai (IRJ 2015)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.2797, 
+      "P@10": 0.4422
+    }, 
+    "baseline": {
+      "AP": 0.2788, 
+      "P@10": 0.4382
+    }
+  }, 
+  {
+    "short_cite": "NA (TOIS 2015)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.2927
+    }, 
+    "baseline": {
+      "AP": 0.2813
+    }
+  }, 
+  {
+    "short_cite": "Raiber et al. (ICTIR 2015)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.237
+    }, 
+    "baseline": {
+      "AP": 0.235
+    }
+  }, 
+  {
+    "short_cite": "Diaz (ICTIR 2015)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "nDCG@10": 0.4757, 
+      "AP": 0.2767, 
+      "R-precision": 0.314
+    }, 
+    "baseline": {
+      "nDCG@10": 0.4767, 
+      "AP": 0.2892, 
+      "R-precision": 0.314
+    }
+  }, 
+  {
+    "short_cite": "Lv (CIKM 2015)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.2422, 
+      "P@10": 0.4211
+    }, 
+    "baseline": {
+      "AP": 0.2352, 
+      "P@10": 0.4163
+    }
+  }, 
+  {
+    "short_cite": "Zheng and Callan (SIGIR 2015)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.2851, 
+      "nDCG@20": 0.4146, 
+      "P@10": 0.4711
+    }, 
+    "baseline": {
+      "AP": 0.2749, 
+      "nDCG@20": 0.4059, 
+      "P@10": 0.4414
+    }
+  }, 
+  {
+    "short_cite": "Ye and Huang (JASIST 2016)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.3086, 
+      "P@20": 0.4016, 
+      "P@5": 0.5124
+    }, 
+    "baseline": {
+      "AP": 0.299, 
+      "P@20": 0.3701, 
+      "P@5": 0.5012
+    }
+  }, 
+  {
+    "short_cite": "Miao et al. (TOIS 2016)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.3035
+    }, 
+    "baseline": {
+      "AP": 0.2894
+    }
+  }, 
+  {
+    "short_cite": "Diaz (ECIR 2016)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "nDCG@10": 0.4713, 
+      "AP": 0.2736, 
+      "nDCG@20": 0.4438
+    }, 
+    "baseline": {
+      "nDCG@10": 0.4559, 
+      "AP": 0.2726, 
+      "nDCG@20": 0.4306
+    }
+  }, 
+  {
+    "short_cite": "Balaneshinkordan and Kotov (ECIR 2016)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.2503, 
+      "P@20": 0.354, 
+      "gMAP": 0.1463
+    }, 
+    "baseline": {
+      "AP": 0.2426, 
+      "P@20": 0.3488, 
+      "gMAP": 0.136
+    }
+  }, 
+  {
+    "short_cite": "Cummins (WWW 2016)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "nDCG@10": 0.532, 
+      "AP": 0.314
+    }, 
+    "baseline": {
+      "nDCG@10": 0.488, 
+      "AP": 0.296
+    }
+  }, 
+  {
+    "short_cite": "Raviv et al. (SIGIR 2016)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "nDCG@10": 0.491, 
+      "AP": 0.305, 
+      "P@10": 0.477
+    }, 
+    "baseline": {
+      "nDCG@10": 0.469, 
+      "AP": 0.284, 
+      "P@10": 0.459
+    }
+  }, 
+  {
+    "short_cite": "Montazeralghaem et al. (SIGIR 2016)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.2979, 
+      "P@10": 0.449
+    }, 
+    "baseline": {
+      "AP": 0.2829, 
+      "P@10": 0.4237
+    }
+  }, 
+  {
+    "short_cite": "Ai et al. (SIGIR 2016)", 
+    "is_nn_paper": "yes", 
+    "best": {
+      "AP": 0.267, 
+      "P@20": 0.376, 
+      "nDCG@20": 0.425
+    }, 
+    "baseline": {
+      "AP": 0.259, 
+      "P@20": 0.374, 
+      "nDCG@20": 0.421
+    }
+  }, 
+  {
+    "short_cite": "Lu et al. (ICTIR 2016)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.27
+    }, 
+    "baseline": {
+      "AP": 0.264
+    }
+  }, 
+  {
+    "short_cite": "Zamani and Croft (ICTIR 2016)", 
+    "is_nn_paper": "yes", 
+    "best": {
+      "AP": 0.275, 
+      "P@5": 0.4739, 
+      "P@10": 0.4183
+    }, 
+    "baseline": {
+      "AP": 0.2677, 
+      "P@5": 0.4722, 
+      "P@10": 0.4133
+    }
+  }, 
+  {
+    "short_cite": "Ai et al. (ICTIR 2016)", 
+    "is_nn_paper": "yes", 
+    "best": {}, 
+    "baseline": {}
+  }, 
+  {
+    "short_cite": "Guo et al. (CIKM 2016)", 
+    "is_nn_paper": "yes", 
+    "best": {
+      "AP": 0.274, 
+      "P@20": 0.38, 
+      "nDCG@20": 0.426
+    }, 
+    "baseline": {
+      "AP": 0.295, 
+      "P@20": 0.375, 
+      "nDCG@20": 0.423
+    }
+  }, 
+  {
+    "short_cite": "*Balaneshin-kordan and Kotov (CIKM 2016)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.3053, 
+      "P@20": 0.3965
+    }, 
+    "baseline": {
+      "AP": 0.2826, 
+      "P@20": 0.3785
+    }
+  }, 
+  {
+    "short_cite": "Dehghani et al. (CIKM 2016)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.2945, 
+      "P@10": 0.4704
+    }, 
+    "baseline": {
+      "AP": 0.2961, 
+      "P@10": 0.4719
+    }
+  }, 
+  {
+    "short_cite": "Anava and Shtok (CIKM 2016)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.303, 
+      "P@10": 0.472
+    }, 
+    "baseline": {
+      "AP": 0.301, 
+      "P@10": 0.471
+    }
+  }, 
+  {
+    "short_cite": "Levi et al. (CIKM 2016)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "nDCG@10": 0.485, 
+      "P@5": 0.512, 
+      "P@10": 0.45
+    }, 
+    "baseline": {
+      "nDCG@10": 0.483, 
+      "P@5": 0.497, 
+      "P@10": 0.44
+    }
+  }, 
+  {
+    "short_cite": "Zamani et al. (CIKM 2016)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.2899, 
+      "P@20": 0.3823, 
+      "P@10": 0.4442
+    }, 
+    "baseline": {
+      "AP": 0.282, 
+      "P@20": 0.3733, 
+      "P@10": 0.4406
+    }
+  }, 
+  {
+    "short_cite": "Kuzi et al. (CIKM 2016)", 
+    "is_nn_paper": "yes", 
+    "best": {
+      "AP": 0.291, 
+      "P@5": 0.495
+    }, 
+    "baseline": {
+      "AP": 0.282, 
+      "P@5": 0.483
+    }
+  }, 
+  {
+    "short_cite": "Ariannezhad et al. (ECIR 2017)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.2926, 
+      "P@10": 0.4442
+    }, 
+    "baseline": {
+      "AP": 0.2822, 
+      "P@10": 0.445
+    }
+  }, 
+  {
+    "short_cite": "Ensan and Bagheri (WSDM 2017)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.3382, 
+      "P@20": 0.3986, 
+      "nDCG@20": 0.4501
+    }, 
+    "baseline": {
+      "AP": 0.3278, 
+      "P@20": 0.388, 
+      "nDCG@20": 0.4341
+    }
+  }, 
+  {
+    "short_cite": "Dehghani et al. (SIGIR 2017)", 
+    "is_nn_paper": "yes", 
+    "best": {
+      "AP": 0.2837, 
+      "P@20": 0.3802, 
+      "nDCG@20": 0.4389
+    }, 
+    "baseline": {
+      "AP": 0.2503, 
+      "P@20": 0.3569, 
+      "nDCG@20": 0.4102
+    }
+  }, 
+  {
+    "short_cite": "Zamani and Croft (SIGIR 2017)", 
+    "is_nn_paper": "yes", 
+    "best": {
+      "AP": 0.2761, 
+      "P@20": 0.3886, 
+      "nDCG@20": 0.4242
+    }, 
+    "baseline": {
+      "AP": 0.2593, 
+      "P@20": 0.3738, 
+      "nDCG@20": 0.4181
+    }
+  }, 
+  {
+    "short_cite": "Sherman and Efron (SIGIR 2017)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.2674, 
+      "nDCG@20": 0.4205
+    }, 
+    "baseline": {
+      "AP": 0.2639, 
+      "nDCG@20": 0.3908
+    }
+  }, 
+  {
+    "short_cite": "Montazeralghaem et al. (SIGIR 2017)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.295, 
+      "P@10": 0.453
+    }, 
+    "baseline": {
+      "AP": 0.2829, 
+      "P@10": 0.4393
+    }
+  }, 
+  {
+    "short_cite": "Ariannezhad et al. (SIGIR 2017)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.255, 
+      "P@10": 0.4353
+    }, 
+    "baseline": {
+      "AP": 0.254, 
+      "P@10": 0.4353
+    }
+  }, 
+  {
+    "short_cite": "Cummins (ICTIR 2017)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "nDCG@10": 0.493, 
+      "AP": 0.3
+    }, 
+    "baseline": {
+      "nDCG@10": 0.496, 
+      "AP": 0.305
+    }
+  }, 
+  {
+    "short_cite": "Raiber and Kurland (ICTIR 2017)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.289, 
+      "nDCG@20": 0.504, 
+      "P@5": 0.545
+    }, 
+    "baseline": {
+      "AP": 0.288, 
+      "nDCG@20": 0.473, 
+      "P@5": 0.548
+    }
+  }, 
+  {
+    "short_cite": "Na and Kim (IPM 2018)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.3122, 
+      "nDCG@20": 0.4679
+    }, 
+    "baseline": {
+      "AP": 0.3015, 
+      "nDCG@20": 0.4582
+    }
+  }, 
+  {
+    "short_cite": "Ai et al. (ECIR 2018)", 
+    "is_nn_paper": "yes", 
+    "best": {
+      "AP": 0.256
+    }, 
+    "baseline": {
+      "AP": 0.21
+    }
+  }, 
+  {
+    "short_cite": "Zhang et al. (ECIR 2018)", 
+    "is_nn_paper": "yes", 
+    "best": {
+      "AP": 0.256, 
+      "P@20": 0.367
+    }, 
+    "baseline": {
+      "AP": 0.254, 
+      "P@20": 0.365
+    }
+  }, 
+  {
+    "short_cite": "Zou et al. (ICTIR 2018)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "nDCG@10": 0.469, 
+      "AP": 0.257, 
+      "P@10": 0.223
+    }, 
+    "baseline": {
+      "nDCG@10": 0.463, 
+      "AP": 0.244, 
+      "P@10": 0.211
+    }
+  }, 
+  {
+    "short_cite": "Zamani and Croft (ICTIR 2018)", 
+    "is_nn_paper": "yes", 
+    "best": {
+      "AP": 0.2831, 
+      "P@20": 0.3769, 
+      "nDCG@20": 0.4333
+    }, 
+    "baseline": {
+      "AP": 0.2499, 
+      "P@20": 0.3556, 
+      "nDCG@20": 0.4143
+    }
+  }, 
+  {
+    "short_cite": "Li and Jia (CIKM 2018)", 
+    "is_nn_paper": "yes", 
+    "best": {
+      "AP": 0.296, 
+      "P@20": 0.403
+    }, 
+    "baseline": {
+      "AP": 0.248, 
+      "P@20": 0.351
+    }
+  }, 
+  {
+    "short_cite": "Bagheri et al. (CIKM 2018)", 
+    "is_nn_paper": "yes", 
+    "best": {}, 
+    "baseline": {}
+  }, 
+  {
+    "short_cite": "Zamani et al. (CIKM 2018)", 
+    "is_nn_paper": "yes", 
+    "best": {
+      "AP": 0.2971, 
+      "P@20": 0.3948, 
+      "nDCG@20": 0.4391
+    }, 
+    "baseline": {
+      "AP": 0.2865, 
+      "P@20": 0.3773, 
+      "nDCG@20": 0.4341
+    }
+  }, 
+  {
+    "short_cite": "Roy et al. (CIKM 2018)", 
+    "is_nn_paper": "yes", 
+    "best": {
+      "AP": 0.2486
+    }, 
+    "baseline": {
+      "AP": 0.252
+    }
+  }, 
+  {
+    "short_cite": "Jian et al. (SIGIR 2018)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.2637
+    }, 
+    "baseline": {
+      "AP": 0.2642
+    }
+  }, 
+  {
+    "short_cite": "Montazeralghaem et al. (SIGIR 2018)", 
+    "is_nn_paper": "no", 
+    "best": {
+      "AP": 0.2986
+    }, 
+    "baseline": {
+      "AP": 0.2919
+    }
+  }, 
+  {
+    "short_cite": "Li et al. (EMNLP 2018)", 
+    "is_nn_paper": "yes", 
+    "best": {
+      "AP": 0.2904, 
+      "P@20": 0.4064, 
+      "nDCG@20": 0.4502
+    }, 
+    "baseline": {
+      "AP": 0.2966, 
+      "P@20": 0.4002, 
+      "nDCG@20": 0.4549
+    }
+  }, 
+  {
+    "short_cite": "McDonald et al. (EMNLP 2018)", 
+    "is_nn_paper": "yes", 
+    "best": {
+      "AP": 0.272, 
+      "P@20": 0.386, 
+      "nDCG@20": 0.461
+    }, 
+    "baseline": {
+      "AP": 0.258, 
+      "P@20": 0.372, 
+      "nDCG@20": 0.444
+    }
+  }
+]
