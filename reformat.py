@@ -100,8 +100,8 @@ def write_new_md(new_md_file, paper_info):
                     '| {} | {} | {} | {} |  \n'.format(
                                                     single_paper_info['short_cite'],
                                                     single_paper_info['is_nn_paper'],
-                                                    single_paper_info['best']['AP'],
                                                     single_paper_info['baseline']['AP'],
+                                                    single_paper_info['best']['AP']
                                                 )
                 )
 
