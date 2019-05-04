@@ -20,37 +20,6 @@ import json
 from collections import OrderedDict
 
 
-def check_papers(readme_file):
-    names_1 = []
-    names_2 = []
-    table1 = True
-    with open(readme_file) as f:
-        for line in f:
-            line = line.strip()
-            
-            if 'Best Baseline Effectiveness' in line:
-                table1 = False
-                continue
-            if not line or line[0] != '|' or 'Paper' in line:
-                continue
-            line = line.strip('|')
-            cols = line.split('|')
-            name = cols[0].strip()
-            if table1:
-                names_1.append(name)
-            else:
-                names_2.append(name)
-
-    for i in range(len(names_1)):
-        if names_1[i] != names_2[i]:
-            print ('Wrong paper name at {}'.format(i))
-            print (names_1[i])
-            print (names_2[i])
-            sys.exit(0)
-
-
-
-
 def get_paper_info(readme_file):
     paper_data = OrderedDict()
     is_header = True
@@ -126,7 +95,7 @@ def write_new_md(new_md_file, paper_info):
         for single_paper_info in paper_info:
             try:
                 f.write(
-                    '| {} | {} | {} | {} |\n'.format(
+                    '| {} | {} | {} | {} |  \n'.format(
                                                     single_paper_info['short_cite'],
                                                     single_paper_info['is_nn_paper'],
                                                     single_paper_info['best']['AP'],
