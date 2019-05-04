@@ -254,16 +254,6 @@
     }
   }, 
   {
-    "short_cite": "?He and Ounis (CIKM 2009)", 
-    "is_nn_paper": "no", 
-    "best": {
-      "AP": 0.2982
-    }, 
-    "baseline": {
-      "AP": 0.251
-    }
-  }, 
-  {
     "short_cite": "Xu et al. (SIGIR 2009)", 
     "is_nn_paper": "no", 
     "best": {
@@ -463,18 +453,6 @@
     }
   }, 
   {
-    "short_cite": "?Hui et al. (ICTIR 2011)", 
-    "is_nn_paper": "no", 
-    "best": {
-      "AP": 0.295, 
-      "P@10": 0.4557
-    }, 
-    "baseline": {
-      "AP": 0.257, 
-      "P@10": 0.442
-    }
-  }, 
-  {
     "short_cite": "Lv and Zhai (CIKM 2011)", 
     "is_nn_paper": "no", 
     "best": {
@@ -657,26 +635,6 @@
     }
   }, 
   {
-    "short_cite": "?Wu and Fang (ICTIR 2013)", 
-    "is_nn_paper": "no", 
-    "best": {
-      "AP": 0.207
-    }, 
-    "baseline": {
-      "AP": 0.0
-    }
-  }, 
-  {
-    "short_cite": "?Clinchant and Perronnin (ICTIR 2013)", 
-    "is_nn_paper": "no", 
-    "best": {
-      "AP": 0.248
-    }, 
-    "baseline": {
-      "AP": 0.105
-    }
-  }, 
-  {
     "short_cite": "Rousseau and Vazirgiannis (CIKM 2013)", 
     "is_nn_paper": "no", 
     "best": {
@@ -762,20 +720,6 @@
     }
   }, 
   {
-    "short_cite": "?Huston and Croft (CIKM 2014)", 
-    "is_nn_paper": "no", 
-    "best": {
-      "AP": 0.28, 
-      "P@20": 0.364, 
-      "nDCG@20": 0.428
-    }, 
-    "baseline": {
-      "AP": 0.258, 
-      "P@20": 0.349, 
-      "nDCG@20": 0.406
-    }
-  }, 
-  {
     "short_cite": "Ye and Huang (SIGIR 2014)", 
     "is_nn_paper": "no", 
     "best": {
@@ -821,16 +765,6 @@
     }, 
     "baseline": {
       "AP": 0.2813
-    }
-  }, 
-  {
-    "short_cite": "?Costa et al. (TOIS 2015)", 
-    "is_nn_paper": "no", 
-    "best": {
-      "AP": 0.2474
-    }, 
-    "baseline": {
-      "AP": 0.2544
     }
   }, 
   {
@@ -1018,20 +952,6 @@
     "baseline": {}
   }, 
   {
-    "short_cite": "?Balaneshin-kordan and Kotov (ICTIR 2016)", 
-    "is_nn_paper": "no", 
-    "best": {
-      "AP": 0.2608, 
-      "P@20": 0.3629, 
-      "nDCG@20": 0.4197
-    }, 
-    "baseline": {
-      "AP": 0.2543, 
-      "P@20": 0.3607, 
-      "nDCG@20": 0.4104
-    }
-  }, 
-  {
     "short_cite": "Guo et al. (CIKM 2016)", 
     "is_nn_paper": "yes", 
     "best": {
@@ -1212,16 +1132,6 @@
     }
   }, 
   {
-    "short_cite": "?Yang and Fang (ICTIR 2017)", 
-    "is_nn_paper": "no", 
-    "best": {
-      "AP": 0.2566
-    }, 
-    "baseline": {
-      "AP": 0.2506
-    }
-  }, 
-  {
     "short_cite": "Cummins (ICTIR 2017)", 
     "is_nn_paper": "no", 
     "best": {
@@ -1257,24 +1167,6 @@
     "baseline": {
       "AP": 0.3015, 
       "nDCG@20": 0.4582
-    }
-  }, 
-  {
-    "short_cite": "?Hubert et al. (IPM 2018)", 
-    "is_nn_paper": "no", 
-    "best": {}, 
-    "baseline": {}
-  }, 
-  {
-    "short_cite": "?Van Gysel et al. (TOIS 2018)", 
-    "is_nn_paper": "yes", 
-    "best": {
-      "AP": 0.247, 
-      "P@10": 0.448
-    }, 
-    "baseline": {
-      "AP": 0.224, 
-      "P@10": 0.415
     }
   }, 
   {

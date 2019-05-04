@@ -35,7 +35,7 @@ def get_paper_info(readme_file):
                 continue
 
             # skip non data line
-            if not line or line[0] != '|':
+            if not line or line[0] != '|' or '?' in line:
                 continue
             line = line.strip('|')
             cols = line.split('|')
@@ -89,8 +89,8 @@ def parse_data_line(cols, idx_to_metric):
 
 def write_new_md(new_md_file, paper_info):
     with open(new_md_file, 'w') as f:
-        f.write('# Robust04 Effectiveness\n\n') 
-        f.write('| paper | is neural paper | baseline AP | best AP |\n')
+        f.write('# Robust04 Effectiveness  \n\n') 
+        f.write('| paper | is neural paper | baseline AP | best AP |  \n')
 
         for single_paper_info in paper_info:
             try:

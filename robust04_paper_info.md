@@ -1,6 +1,6 @@
-# Robust04 Effectiveness
+# Robust04 Effectiveness  
 
-| paper | is neural paper | baseline AP | best AP |
+| paper | is neural paper | baseline AP | best AP |  
 | Diaz (CIKM 2005) | no | 0.2625 | 0.2626 |  
 | Liu et al. (CIKM 2005) | no | 0.3574 | 0.327 |  
 | He and Ounis (SIGIR 2005) | no | 0.2724 | 0.2858 |  
@@ -22,7 +22,6 @@
 | Soskin et al. (ICTIR 2009) | no | 0.288 | 0.307 |  
 | Lease et al. (ECIR 2009) | no | 0.2733 | 0.2591 |  
 | Collins-Thompson (CIKM 2009) | no | 0.2451 | 0.2441 |  
-| ?He and Ounis (CIKM 2009) | no | 0.2982 | 0.251 |  
 | Xu et al. (SIGIR 2009) | no | 0.3002 | 0.2823 |  
 | Zhu et al. (SIGIR 2009) | no | 0.226 | 0.223 |  
 | Wang and Zhu (SIGIR 2009) | no | 0.249 | 0.231 |  
@@ -41,7 +40,6 @@
 | Park and Croft (SIGIR 2010) | no | 0.2621 | 0.2517 |  
 | Clinchant and Gaussier (IRJ 2011) | no | 0.285 | 0.277 |  
 | Clinchant and Gaussier  (ICTIR 2011) | no | 0.301 | 0.294 |  
-| ?Hui et al. (ICTIR 2011) | no | 0.295 | 0.257 |  
 | Lv and Zhai (CIKM 2011) | no | 0.2571 | 0.2543 |  
 | Park et al. (CIKM 2011) | no | 0.2786 | 0.2477 |  
 | Hui et al. (CIKM 2011) | no | 0.2304 | 0.257 |  
@@ -57,20 +55,16 @@
 | Na (IPM 2013) | no | 0.3225 | 0.2987 |  
 | Xue and Croft (TOIS 2013) | no | 0.2788 | 0.2857 |  
 | Clinchant and Gaussier (ICTIR 2013) | no | 0.3 | 0.287 |  
-| ?Wu and Fang (ICTIR 2013) | no | 0.207 | 0.0 |  
-| ?Clinchant and Perronnin (ICTIR 2013) | no | 0.248 | 0.105 |  
 | Rousseau and Vazirgiannis (CIKM 2013) | no | 0.2403 | 0.2547 |  
 | Maxwell and Croft (SIGIR 2013) | no | 0.2732 | 0.2657 |  
 | Symonds et al. (JASIST 2014) | no | 0.2869 | 0.2707 |  
 | Brosseau-Villeneuve et al. (IRJ 2014) | no | 0.3136 | 0.2922 |  
 | Kocabas et al. (IRJ 2014) | no | 0.2764 | 0.2718 |  
 | Zhao et al. (TOIS 2014) | no | 0.2666 | 0.2562 |  
-| ?Huston and Croft (CIKM 2014) | no | 0.28 | 0.258 |  
 | Ye and Huang (SIGIR 2014) | no | 0.3082 | 0.299 |  
 | Dalton et al. (SIGIR 2014) | no | 0.3277 | 0.2938 |  
 | Lv and Zhai (IRJ 2015) | no | 0.2797 | 0.2788 |  
 | NA (TOIS 2015) | no | 0.2927 | 0.2813 |  
-| ?Costa et al. (TOIS 2015) | no | 0.2474 | 0.2544 |  
 | Raiber et al. (ICTIR 2015) | no | 0.237 | 0.235 |  
 | Diaz (ICTIR 2015) | no | 0.2767 | 0.2892 |  
 | Lv (CIKM 2015) | no | 0.2422 | 0.2352 |  
@@ -85,7 +79,6 @@
 | Ai et al. (SIGIR 2016) | yes | 0.267 | 0.259 |  
 | Lu et al. (ICTIR 2016) | no | 0.27 | 0.264 |  
 | Zamani and Croft (ICTIR 2016) | yes | 0.275 | 0.2677 |  
-| ?Balaneshin-kordan and Kotov (ICTIR 2016) | no | 0.2608 | 0.2543 |  
 | Guo et al. (CIKM 2016) | yes | 0.274 | 0.295 |  
 | *Balaneshin-kordan and Kotov (CIKM 2016) | no | 0.3053 | 0.2826 |  
 | Dehghani et al. (CIKM 2016) | no | 0.2945 | 0.2961 |  
@@ -99,11 +92,9 @@
 | Sherman and Efron (SIGIR 2017) | no | 0.2674 | 0.2639 |  
 | Montazeralghaem et al. (SIGIR 2017) | no | 0.295 | 0.2829 |  
 | Ariannezhad et al. (SIGIR 2017) | no | 0.255 | 0.254 |  
-| ?Yang and Fang (ICTIR 2017) | no | 0.2566 | 0.2506 |  
 | Cummins (ICTIR 2017) | no | 0.3 | 0.305 |  
 | Raiber and Kurland (ICTIR 2017) | no | 0.289 | 0.288 |  
 | Na and Kim (IPM 2018) | no | 0.3122 | 0.3015 |  
-| ?Van Gysel et al. (TOIS 2018) | yes | 0.247 | 0.224 |  
 | Ai et al. (ECIR 2018) | yes | 0.256 | 0.21 |  
 | Zhang et al. (ECIR 2018) | yes | 0.256 | 0.254 |  
 | Zou et al. (ICTIR 2018) | no | 0.257 | 0.244 |  
