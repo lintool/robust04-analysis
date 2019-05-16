@@ -26,8 +26,8 @@ def main():
         f.write(header)
         f.write('\n\n')
 
-        f.write('| paper | is neural paper | baseline AP | best AP \n')
-        f.write(':-------|-----------------|:------------|:--------\n')
+        f.write('| paper | neural? | baseline AP | best AP \n')
+        f.write(':-------|---------|:------------|:--------\n')
 
         for single_paper_info in paper_info:
             baseline = ''
@@ -45,7 +45,7 @@ def main():
                     '| [{}]({}) | {} | {} | {}\n'.format(
                                                     single_paper_info['short_cite'],
                                                     single_paper_info['cached_pdf'],
-                                                    single_paper_info['is_nn_paper'],
+                                                    single_paper_info['is_neural'],
                                                     baseline, best
                                                 )
                 )

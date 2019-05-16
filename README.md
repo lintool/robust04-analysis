@@ -3,8 +3,8 @@
 This repro contains raw data from a meta-analysis of papers that use the test collection from TREC 2004 Robust Track.
 
 
-| paper | is neural paper | baseline AP | best AP 
-:-------|-----------------|:------------|:--------
+| paper | neural? | baseline AP | best AP 
+:-------|---------|:------------|:--------
 | [Diaz (CIKM 2005)](https://lintool.github.io/robust04-analysis-papers/p672-diaz.pdf) | no | 0.2626 | 0.2625
 | [Liu et al. (CIKM 2005)](https://lintool.github.io/robust04-analysis-papers/p525-liu.pdf) | no | 0.327 | 0.3574
 | [He and Ounis (SIGIR 2005)](https://lintool.github.io/robust04-analysis-papers/p465-he.pdf) | no | 0.2858 | 0.2724
