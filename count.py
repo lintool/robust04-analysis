@@ -30,6 +30,12 @@ def main():
     neural_baseline_below_trec_median = 0
     neural_below_anserini_rm3base = 0
 
+    below_xfold_neural = 0
+    below_xfold_all = 0
+
+    below_drmm_neural = 0
+    below_drmm_all = 0
+
     for paper in papers:
         total += 1
         if paper['standard_setting'] == 'yes':
@@ -62,6 +68,16 @@ def main():
                 if paper['best']['AP'] > highest:
                     highest = paper['best']['AP']
 
+                if paper['best']['AP'] < 0.3033:
+                    below_xfold_all += 1
+                    if paper['is_neural'] == 'yes':
+                        below_xfold_neural += 1
+
+                if paper['best']['AP'] < 0.3152:
+                    below_drmm_all += 1
+                    if paper['is_neural'] == 'yes':
+                        below_drmm_neural += 1
+
     print('Total number of papers: {}'.format(total))
     print('Standard Settings: {}'.format(standard))
     print('Standard Settings + AP: {}'.format(standard_ap))
@@ -79,6 +95,11 @@ def main():
     print('Neural, baseline lower than TREC median:      {} ({:4.1f}%)'.format(neural_baseline_below_trec_median, neural_baseline_below_trec_median/neural*100))
     print('Neural, best lower than TREC median :         {} ({:4.1f}%)'.format(neural_below_trec_median, neural_below_trec_median/neural*100))
     print('Neural, best lower than Anseirni RM default: {} ({:.1f}%)'.format(neural_below_anserini_rm3base, neural_below_anserini_rm3base/neural*100))
+    print('----------------------------')
+    print('All, below xfold:         {} ({:4.1f}%)'.format(below_xfold_all, below_xfold_all/standard_ap*100))
+    print('Neural, below xfold:      {} ({:4.1f}%)'.format(below_xfold_neural, below_xfold_neural/neural*100))
+    print('All, below DRMM:          {} ({:4.1f}%)'.format(below_drmm_all, below_drmm_all/standard_ap*100))
+    print('Neural, below DRMM:       {} ({:4.1f}%)'.format(below_drmm_neural, below_drmm_neural/neural*100))
 
 if __name__ == '__main__':
     main()
