@@ -132,3 +132,6 @@ This repro contains raw data from a meta-analysis of papers that use the test co
 | [Montazeralghaem et al. (SIGIR 2018)](https://lintool.github.io/robust04-analysis-papers/p1249-montazeralghaem.pdf) | yes | no | 0.2919 | 0.2986
 | [Li et al. (EMNLP 2018)](https://lintool.github.io/robust04-analysis-papers/D18-1478.pdf) | yes | yes | 0.2966 | 0.2904
 | [McDonald et al. (EMNLP 2018)](https://lintool.github.io/robust04-analysis-papers/D18-1211.pdf) | yes | yes | 0.258 | 0.272
+| [Dehghani et al. (ICLR 2018)](https://lintool.github.io/robust04-analysis-papers/b02079b368ddc201cb4177719f6e58958cde9be6.pdf) | yes | yes | 0.2702 | 0.3124
+| [Yang et al. (arXiv 2019)](https://lintool.github.io/robust04-analysis-papers/1903.10972.pdf) | yes | yes | 0.3033 | 0.3278
+| [MacAvaney et al. (arXiv 2019)](https://lintool.github.io/robust04-analysis-papers/1904.07094.pdf) | yes | yes |  | 

@@ -1759,5 +1759,50 @@
       "P@20": 0.372,
       "nDCG@20": 0.444
     }
+  },
+  {
+    "short_cite": "Dehghani et al. (ICLR 2018)",
+    "is_neural": "yes",
+    "standard_setting": "yes",
+    "link": "https://openreview.net/forum?id=B1X0mzZCW",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/b02079b368ddc201cb4177719f6e58958cde9be6.pdf",
+    "best": {
+      "AP": 0.3124,
+      "nDCG@20": 0.4607
+    },
+    "baseline": {
+      "AP": 0.2702,
+      "nDCG@20": 0.4290
+    }
+  },
+  {
+    "short_cite": "Yang et al. (arXiv 2019)",
+    "is_neural": "yes",
+    "standard_setting": "yes",
+    "link": "https://arxiv.org/abs/1903.10972",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/1903.10972.pdf",
+    "best": {
+      "AP": 0.3278,
+      "P@20": 0.4287
+    },
+    "baseline": {
+      "AP": 0.3033,
+      "P@20": 0.3974
+    }
+  },
+  {
+    "short_cite": "MacAvaney et al. (arXiv 2019)",
+    "is_neural": "yes",
+    "standard_setting": "yes",
+    "link": "https://arxiv.org/abs/1904.07094",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/1904.07094.pdf",
+    "best": {
+      "P@20": 0.4667,
+      "nDCG@20": 0.5381
+    },
+    "baseline": {
+      "P@20": 0.3408,
+      "nDCG@20": 0.3871
+    }
   }
 ]
