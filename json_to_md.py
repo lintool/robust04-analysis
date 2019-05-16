@@ -12,7 +12,7 @@ from collections import OrderedDict
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--json_file','-jf',default='robust04_paper_info.json')
+    parser.add_argument('--json_file','-jf',default='robust04_papers.json')
     parser.add_argument('--new_md_file','-mf',default='README.md')
     args=parser.parse_args()
 
@@ -40,19 +40,9 @@ def main():
             if 'AP' in single_paper_info['best']:
                 best = single_paper_info['best']['AP']
 
-            try:
-                f.write(
-                    '| [{}]({}) | {} | {} | {}\n'.format(
-                                                    single_paper_info['short_cite'],
-                                                    single_paper_info['cached_pdf'],
-                                                    single_paper_info['is_neural'],
-                                                    baseline, best
-                                                )
-                )
-
-            except KeyError:
-                # ignore paper not having AP
-                pass
+            f.write('| [{}]({}) | {} | {} | {}\n'.format(
+                single_paper_info['short_cite'], single_paper_info['cached_pdf'],
+                single_paper_info['is_neural'], baseline, best))
 
 if __name__ == '__main__':
     main()
