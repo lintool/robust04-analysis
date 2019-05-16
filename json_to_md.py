@@ -19,8 +19,12 @@ def main():
 
     paper_info = json.load(open(args.json_file))
 
+    with open('README.header', 'r') as header_file:
+        header = header_file.read()
+
     with open(args.new_md_file, 'w') as f:
-        f.write('# Robust04 Effectiveness  \n\n') 
+        f.write(header)
+        f.write('\n\n')
 
         f.write('| paper | is neural paper | baseline AP | best AP |  \n')
         f.write(':-------|-----------------|-------------|----------  \n')
@@ -30,7 +34,7 @@ def main():
                 f.write(
                     '| [{}]({}) | {} | {} | {} |  \n'.format(
                                                     single_paper_info['short_cite'],
-                                                    single_paper_info['link'],
+                                                    single_paper_info['cached_pdf'],
                                                     single_paper_info['is_nn_paper'],
                                                     single_paper_info['baseline']['AP'],
                                                     single_paper_info['best']['AP']

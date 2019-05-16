@@ -3,6 +3,7 @@
     "short_cite": "Diaz (CIKM 2005)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=1099722",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p672-diaz.pdf",
     "best": {
       "AP": 0.2625
     }, 
@@ -14,6 +15,7 @@
     "short_cite": "Liu et al. (CIKM 2005)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=1099696",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p525-liu.pdf",
     "best": {
       "AP": 0.3574
     }, 
@@ -25,6 +27,7 @@
     "short_cite": "He and Ounis (SIGIR 2005)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=1076114",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p465-he.pdf",
     "best": {
       "AP": 0.2724
     }, 
@@ -36,6 +39,7 @@
     "short_cite": "Diaz and Metzler (SIGIR 2006)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=1148200",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p154-diaz.pdf",
     "best": {
       "AP": 0.353, 
       "gMAP": 0.2275
@@ -49,6 +53,7 @@
     "short_cite": "Fang and Zhai (SIGIR 2006)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=1148193",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p115-fang.pdf",
     "best": {
       "AP": 0.302, 
       "gMAP": 0.175
@@ -62,6 +67,7 @@
     "short_cite": "Amati (ECIR 2006)", 
     "is_nn_paper": "no", 
     "link": "https://link.springer.com/chapter/10.1007/11735106_3",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/Amati2006_Chapter_FrequentistAndBayesianApproach.pdf",
     "best": {
       "AP": 0.3052, 
       "R-precision": 0.2979, 
@@ -79,6 +85,7 @@
     "short_cite": "Diaz (IRJ 2007)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=1298708.1298734",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/Diaz2007_Article_RegularizingQuery-basedRetriev.pdf",
     "best": {
       "AP": 0.3068
     }, 
@@ -90,6 +97,7 @@
     "short_cite": "He and Ounis (TOIS 2007)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=1247719",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/papers/a13-he.pdf",
     "best": {
       "AP": 0.2907
     }, 
@@ -101,6 +109,7 @@
     "short_cite": "Zhang et al. (CIKM 2007)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=1321540",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p711-zhang.pdf",
     "best": {
       "AP": 0.364
     }, 
@@ -112,6 +121,7 @@
     "short_cite": "Troy and Zhang (SIGIR 2007)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=1277741.1277844",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p599-troy.pdf",
     "best": {
       "AP": 0.2628, 
       "P@10": 0.4422
@@ -125,6 +135,7 @@
     "short_cite": "Vechtomova and Karamuftuoglu (IPM 2008)", 
     "is_nn_paper": "no", 
     "link": "https://www.sciencedirect.com/science/article/abs/pii/S0306457308000071",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/1-s2.0-S0306457308000071-main.pdf",
     "best": {
       "AP": 0.2753, 
       "R-precision": 0.3141, 
@@ -140,6 +151,7 @@
     "short_cite": "Blanco and Barreiro (ECIR 2008)", 
     "is_nn_paper": "no", 
     "link": "https://link.springer.com/chapter/10.1007/978-3-540-78646-7_36",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/Blanco-Barreiro2008_Chapter_ProbabilisticDocumentLengthPri.pdf",
     "best": {
       "AP": 0.2967, 
       "P@10": 0.4984
@@ -153,6 +165,7 @@
     "short_cite": "Bendersky and Croft (SIGIR 2008)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=1390419",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p491-bendersky.pdf",
     "best": {
       "AP": 0.262, 
       "nDCG@20": 0.4854
@@ -166,6 +179,7 @@
     "short_cite": "Meij et al. (SIGIR 2008)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=1390520",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p817-meij.pdf",
     "best": {
       "AP": 0.2689, 
       "P@10": 0.4289
@@ -179,6 +193,7 @@
     "short_cite": "Zighelnic and Kurland (SIGIR 2008)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=1390524",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p825-zighelnic.pdf",
     "best": {
       "AP": 0.293
     }, 
@@ -190,6 +205,7 @@
     "short_cite": "Xu et al. (SIGIR 2008)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=1390540",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p855-xu.pdf",
     "best": {
       "AP": 0.2335
     }, 
@@ -201,6 +217,7 @@
     "short_cite": "Wu et al. (IPM 2009)", 
     "is_nn_paper": "no", 
     "link": "https://www.sciencedirect.com/science/article/abs/pii/S0306457309000223",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/1-s2.0-S0306457309000223-main.pdf",
     "best": {
       "AP": 0.3522
     }, 
@@ -212,6 +229,7 @@
     "short_cite": "Clinchant and Gaussier (ICTIR 2009)", 
     "is_nn_paper": "no", 
     "link": "https://link.springer.com/chapter/10.1007/978-3-642-04417-5_6",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/Clinchant-Gaussier2009_Chapter_BridgingLanguageModelingAndDiv.pdf",
     "best": {
       "AP": 0.274, 
       "P@10": 0.47
@@ -225,6 +243,7 @@
     "short_cite": "Soskin et al. (ICTIR 2009)", 
     "is_nn_paper": "no", 
     "link": "https://link.springer.com/chapter/10.1007/978-3-642-04417-5_8",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/Soskin2009_Chapter_NavigatingInTheDarkModelingUnc.pdf",
     "best": {
       "AP": 0.288
     }, 
@@ -236,6 +255,7 @@
     "short_cite": "Collins-Thompson (ICTIR 2009)", 
     "is_nn_paper": "no", 
     "link": "https://link.springer.com/chapter/10.1007/978-3-642-04417-5_25",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/Collins-Thompson2009_Chapter_RobustWordSimilarityEstimation.pdf",
     "best": {}, 
     "baseline": {}
   }, 
@@ -243,6 +263,7 @@
     "short_cite": "Zhu et al. (ECIR 2009)", 
     "is_nn_paper": "no", 
     "link": "https://link.springer.com/chapter/10.1007/978-3-642-00958-7_5",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/Zhu2009_Chapter_Risk-AwareInformationRetrieval.pdf",
     "best": {
       "nDCG@10": 0.415, 
       "P@10": 0.407
@@ -256,6 +277,7 @@
     "short_cite": "Lease et al. (ECIR 2009)", 
     "is_nn_paper": "no", 
     "link": "https://link.springer.com/chapter/10.1007/978-3-642-00958-7_11",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/Lease2009_Chapter_RegressionRankLearningToMeetTh.pdf",
     "best": {
       "AP": 0.2733
     }, 
@@ -267,6 +289,7 @@
     "short_cite": "Collins-Thompson (CIKM 2009)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=1646059",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p837-collins-thompson.pdf",
     "best": {
       "AP": 0.2451, 
       "P@20": 0.3458
@@ -280,6 +303,7 @@
     "short_cite": "Xu et al. (SIGIR 2009)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=1571954",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p59-xu.pdf",
     "best": {
       "AP": 0.3002
     }, 
@@ -291,6 +315,7 @@
     "short_cite": "Zhu et al. (SIGIR 2009)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=1571961",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p99-zhu.pdf",
     "best": {
       "nDCG@10": 0.184, 
       "AP": 0.226, 
@@ -306,6 +331,7 @@
     "short_cite": "Wang and Zhu (SIGIR 2009)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=1571963",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p115-wang.pdf",
     "best": {
       "nDCG@10": 0.204, 
       "AP": 0.249, 
@@ -321,6 +347,7 @@
     "short_cite": "Lease (SIGIR 2009)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=1572023",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p476-lease.pdf",
     "best": {
       "AP": 0.3182
     }, 
@@ -332,6 +359,7 @@
     "short_cite": "Kalmanovich and Kurland (SIGIR 2009)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=1572058",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p646-kalmanovich.pdf",
     "best": {
       "AP": 0.307
     }, 
@@ -343,6 +371,7 @@
     "short_cite": "Cormack et al. (SIGIR 2009)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=1572114",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p758-cormack.pdf",
     "best": {
       "AP": 0.3686
     }, 
@@ -354,6 +383,7 @@
     "short_cite": "Bendersky et al. (SIGIR 2009)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=1572140",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p810-bendersky.pdf",
     "best": {
       "AP": 0.2516
     }, 
@@ -365,6 +395,7 @@
     "short_cite": "Zheng and Fang (ECIR 2010)", 
     "is_nn_paper": "no", 
     "link": "https://link.springer.com/chapter/10.1007/978-3-642-12275-0_31",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/Zheng-Fang2010_Chapter_QueryAspectBasedTermWeightingR.pdf",
     "best": {
       "AP": 0.2578, 
       "P@10": 0.4237
@@ -378,6 +409,7 @@
     "short_cite": "Bendersky et al. (WSDM 2010)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=1718492",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p31-bendersky.pdf",
     "best": {
       "AP": 0.2721, 
       "P@10": 0.4462
@@ -391,6 +423,7 @@
     "short_cite": "Piwowarski and Frommholz (CIKM 2010)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=1871450",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p59-piwowarski.pdf",
     "best": {
       "AP": 0.228
     }, 
@@ -403,6 +436,7 @@
     "short_cite": "Lang et al. (CIKM 2010)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=1871473",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p249-lang.pdf",
     "best": {
       "AP": 0.3313
     }, 
@@ -414,6 +448,7 @@
     "short_cite": "Xue et al. (CIKM 2010)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=1871572",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p1059-xue.pdf",
     "best": {
       "AP": 0.2737, 
       "P@10": 0.4542
@@ -427,6 +462,7 @@
     "short_cite": "Dillon and Collins-Thompson (CIKM 2010)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=1871573",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p1069-dillon.pdf",
     "best": {
       "AP": 0.2256, 
       "P@20": 0.3142
@@ -440,6 +476,7 @@
     "short_cite": "Clinchant and Gaussier (SIGIR 2010)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=1835490",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p234-clinchant.pdf",
     "best": {
       "AP": 0.303
     }, 
@@ -451,6 +488,7 @@
     "short_cite": "Dang et al. (SIGIR 2010)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=1835626",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p807-dang.pdf",
     "best": {
       "AP": 0.2584
     }, 
@@ -462,6 +500,7 @@
     "short_cite": "Park and Croft (SIGIR 2010)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=1835637",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p829-park.pdf",
     "best": {
       "AP": 0.2621
     }, 
@@ -473,6 +512,7 @@
     "short_cite": "Clinchant and Gaussier (IRJ 2011)", 
     "is_nn_paper": "no", 
     "link": "https://link.springer.com/article/10.1007/s10791-010-9143-7",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/Clinchant-Gaussier2011_Article_RetrievalConstraintsAndWordFre.pdf",
     "best": {
       "AP": 0.285, 
       "P@10": 0.477
@@ -486,6 +526,7 @@
     "short_cite": "Clinchant and Gaussier  (ICTIR 2011)", 
     "is_nn_paper": "no", 
     "link": "https://link.springer.com/chapter/10.1007/978-3-642-23318-0_10",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/Clinchant-Gaussier2011_Chapter_IsDocumentFrequencyImportantFo.pdf",
     "best": {
       "AP": 0.301
     }, 
@@ -497,6 +538,7 @@
     "short_cite": "Lv and Zhai (CIKM 2011)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=2063584",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p7-lv.pdf",
     "best": {
       "AP": 0.2553
     }, 
@@ -508,6 +550,7 @@
     "short_cite": "Park et al. (CIKM 2011)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=2063585",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p17-park.pdf",
     "best": {
       "AP": 0.2786, 
       "P@10": 0.4614
@@ -521,6 +564,7 @@
     "short_cite": "Karimzadehgan and Zhai (CIKM 2011)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=2063586",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p27-karimzadehgan.pdf",
     "best": {}, 
     "baseline": {}
   }, 
@@ -528,6 +572,7 @@
     "short_cite": "Hui et al. (CIKM 2011)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=2063595",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p99-hui.pdf",
     "best": {
       "AP": 0.2304
     }, 
@@ -539,6 +584,7 @@
     "short_cite": "Kotov and Zhai (CIKM 2011)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=2063605",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p163-kotov.pdf",
     "best": {}, 
     "baseline": {}
   }, 
@@ -546,6 +592,7 @@
     "short_cite": "Lv and Zhai (CIKM 2011)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=2063871",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p1985-lv.pdf",
     "best": {
       "AP": 0.2571
     }, 
@@ -557,6 +604,7 @@
     "short_cite": "Lv and Zhai (SIGIR 2011)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=2010070",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p1103-lv.pdf",
     "best": {
       "AP": 0.2553, 
       "P@10": 0.439
@@ -570,6 +618,7 @@
     "short_cite": "Xue and Croft (SIGIR 2011)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=2010085",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p1133-xue.pdf",
     "best": {
       "AP": 0.2755, 
       "P@10": 0.4494
@@ -583,6 +632,7 @@
     "short_cite": "Blanco and Lioma (IRJ 2012)", 
     "is_nn_paper": "no", 
     "link": "https://link.springer.com/article/10.1007/s10791-011-9172-x",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/Blanco-Lioma2012_Article_Graph-basedTermWeightingForInf.pdf",
     "best": {
       "AP": 0.2329, 
       "P@10": 0.5
@@ -596,6 +646,7 @@
     "short_cite": "Lv and Zhai (ECIR 2012)", 
     "is_nn_paper": "no", 
     "link": "https://link.springer.com/chapter/10.1007/978-3-642-28997-2_21",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/Lv-Zhai2012_Chapter_ALog-LogisticModel-BasedInterp.pdf",
     "best": {
       "AP": 0.2543
     }, 
@@ -607,6 +658,7 @@
     "short_cite": "Bendersky et al. (WSDM 2012)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=2124349",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p443-bendersky.pdf",
     "best": {
       "AP": 0.3068, 
       "nDCG@20": 0.4486
@@ -620,6 +672,7 @@
     "short_cite": "Lv and Zhai (CIKM 2012)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=2398520",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p1799-lv.pdf",
     "best": {
       "AP": 0.253, 
       "P@10": 0.4229
@@ -633,6 +686,7 @@
     "short_cite": "Xue and Croft (SIGIR 2012)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=2348355",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p525-xue.pdf",
     "best": {
       "nDCG@10": 0.453, 
       "AP": 0.28, 
@@ -648,6 +702,7 @@
     "short_cite": "Bendersky and Croft (SIGIR 2012)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=2348408",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p941-bendersky.pdf",
     "best": {
       "AP": 0.2779
     }, 
@@ -659,6 +714,7 @@
     "short_cite": "Huang et al. (IPM 2013)", 
     "is_nn_paper": "no", 
     "link": "https://www.sciencedirect.com/science/article/pii/S0306457312001082",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/1-s2.0-S0306457312001082-main.pdf",
     "best": {
       "AP": 0.2916
     }, 
@@ -670,6 +726,7 @@
     "short_cite": "Na (IPM 2013)", 
     "is_nn_paper": "no", 
     "link": "https://www.sciencedirect.com/science/article/pii/S0306457312001215",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/1-s2.0-S0306457312001215-main.pdf",
     "best": {
       "AP": 0.3225, 
       "P@10": 0.5379
@@ -683,6 +740,7 @@
     "short_cite": "Xue and Croft (TOIS 2013)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=2457466",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/a6-xue.pdf",
     "best": {
       "nDCG@10": 0.452, 
       "AP": 0.2788
@@ -693,9 +751,10 @@
     }
   }, 
   {
-    "short_cite": "Clinchant and Gaussier (ICTIR 2013)", 
+    "short_cite": "Clinchant and Gaussier (ICTIR 2013)",
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=2499179",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/ICTIR13_Proceedings-paper6.pdf",
     "best": {
       "AP": 0.3
     }, 
@@ -704,9 +763,10 @@
     }
   }, 
   {
-    "short_cite": "Rousseau and Vazirgiannis (CIKM 2013)", 
+    "short_cite": "Rousseau and Vazirgiannis (CIKM 2013)",
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=2505671",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p59-rousseau.pdf",
     "best": {
       "AP": 0.2403, 
       "P@10": 0.418
@@ -720,6 +780,7 @@
     "short_cite": "Raiber and Kurland (SIGIR 2013)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=2484042",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p333-raiber.pdf",
     "best": {}, 
     "baseline": {}
   }, 
@@ -727,6 +788,7 @@
     "short_cite": "Maxwell and Croft (SIGIR 2013)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=2484096",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p583-maxwell.pdf",
     "best": {
       "AP": 0.2732, 
       "R-precision": 0.3032
@@ -740,6 +802,7 @@
     "short_cite": "Deveaud et al. (SIGIR 2013)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=2484148",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p1001-deveaud.pdf",
     "best": {}, 
     "baseline": {}
   }, 
@@ -747,6 +810,7 @@
     "short_cite": "Symonds et al. (JASIST 2014)", 
     "is_nn_paper": "no", 
     "link": "https://onlinelibrary.wiley.com/doi/full/10.1002/asi.23065",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/Symonds_et_al-2014-Journal_of_the_Association_for_Information_Science_and_Technology.pdf",
     "best": {
       "AP": 0.2869, 
       "P@20": 0.3741
@@ -760,6 +824,7 @@
     "short_cite": "Brosseau-Villeneuve et al. (IRJ 2014)", 
     "is_nn_paper": "no", 
     "link": "https://link.springer.com/article/10.1007/s10791-013-9220-9",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/Brosseau-Villeneuve2014_Article_LatentWordContextModelForInfor.pdf",
     "best": {
       "nDCG@10": 0.5887, 
       "AP": 0.3136, 
@@ -776,6 +841,7 @@
     "short_cite": "Kocabas et al. (IRJ 2014)", 
     "is_nn_paper": "no", 
     "link": "https://link.springer.com/article/10.1007/s10791-013-9225-4",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/Kocabaş2014_Article_ANonparametricTermWeightingMet.pdf",
     "best": {
       "AP": 0.2764
     }, 
@@ -787,6 +853,7 @@
     "short_cite": "Zhao et al. (TOIS 2014)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=2590988",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/a7-zhao.pdf",
     "best": {
       "AP": 0.2666, 
       "P@20": 0.4586
@@ -800,6 +867,7 @@
     "short_cite": "Ye and Huang (SIGIR 2014)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=2609636",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p323-ye.pdf",
     "best": {
       "AP": 0.3082, 
       "P@20": 0.3956
@@ -813,6 +881,7 @@
     "short_cite": "Dalton et al. (SIGIR 2014)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=2609628",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p365-dalton.pdf",
     "best": {
       "AP": 0.3277, 
       "P@20": 0.38, 
@@ -828,6 +897,7 @@
     "short_cite": "Lv and Zhai (IRJ 2015)", 
     "is_nn_paper": "no", 
     "link": "https://link.springer.com/article/10.1007/s10791-015-9257-z",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/Lv-Zhai2015_Article_NegativeQueryGenerationBridgin.pdf",
     "best": {
       "AP": 0.2797, 
       "P@10": 0.4422
@@ -838,9 +908,10 @@
     }
   }, 
   {
-    "short_cite": "NA (TOIS 2015)", 
+    "short_cite": "Na (TOIS 2015)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=2699669",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/a8-na.pdf",
     "best": {
       "AP": 0.2927
     }, 
@@ -852,6 +923,7 @@
     "short_cite": "Raiber et al. (ICTIR 2015)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=2809454",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p281-raiber.pdf",
     "best": {
       "AP": 0.237
     }, 
@@ -863,6 +935,7 @@
     "short_cite": "Diaz (ICTIR 2015)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=2809491",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p313-diaz.pdf",
     "best": {
       "nDCG@10": 0.4757, 
       "AP": 0.2767, 
@@ -878,6 +951,7 @@
     "short_cite": "Lv (CIKM 2015)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=2806592",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p1747-lv.pdf",
     "best": {
       "AP": 0.2422, 
       "P@10": 0.4211
@@ -891,6 +965,7 @@
     "short_cite": "Zheng and Callan (SIGIR 2015)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=2767700",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p575-zheng.pdf",
     "best": {
       "AP": 0.2851, 
       "nDCG@20": 0.4146, 
@@ -906,6 +981,7 @@
     "short_cite": "Ye and Huang (JASIST 2016)", 
     "is_nn_paper": "no", 
     "link": "https://onlinelibrary.wiley.com/doi/full/10.1002/asi.23430",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/Ye_et_al-2016-Journal_of_the_Association_for_Information_Science_and_Technology.pdf",
     "best": {
       "AP": 0.3086, 
       "P@20": 0.4016, 
@@ -921,6 +997,7 @@
     "short_cite": "Miao et al. (TOIS 2016)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=2956234",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/a22-miao.pdf",
     "best": {
       "AP": 0.3035
     }, 
@@ -932,6 +1009,7 @@
     "short_cite": "Diaz (ECIR 2016)", 
     "is_nn_paper": "no", 
     "link": "https://link.springer.com/chapter/10.1007/978-3-319-30671-1_38",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/Diaz2016_Chapter_Pseudo-QueryReformulation.pdf",
     "best": {
       "nDCG@10": 0.4713, 
       "AP": 0.2736, 
@@ -947,6 +1025,7 @@
     "short_cite": "Balaneshinkordan and Kotov (ECIR 2016)", 
     "is_nn_paper": "no", 
     "link": "https://link.springer.com/chapter/10.1007/978-3-319-30671-1_65",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/Balaneshinkordan-Kotov2016_Chapter_AnEmpiricalComparisonOfTermAss.pdf",
     "best": {
       "AP": 0.2503, 
       "P@20": 0.354, 
@@ -962,6 +1041,7 @@
     "short_cite": "Cummins (WWW 2016)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=2883009",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p795-cummins.pdf",
     "best": {
       "nDCG@10": 0.532, 
       "AP": 0.314
@@ -975,6 +1055,7 @@
     "short_cite": "Raviv et al. (SIGIR 2016)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=2911508",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p65-raviv.pdf",
     "best": {
       "nDCG@10": 0.491, 
       "AP": 0.305, 
@@ -990,6 +1071,7 @@
     "short_cite": "Montazeralghaem et al. (SIGIR 2016)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=2914768",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p765-montazeralghaem.pdf",
     "best": {
       "AP": 0.2979, 
       "P@10": 0.449
@@ -1003,6 +1085,7 @@
     "short_cite": "Ai et al. (SIGIR 2016)", 
     "is_nn_paper": "yes", 
     "link": "https://dl.acm.org/citation.cfm?id=2914688",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p869-ai.pdf",
     "best": {
       "AP": 0.267, 
       "P@20": 0.376, 
@@ -1018,6 +1101,7 @@
     "short_cite": "Lu et al. (ICTIR 2016)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=2970404",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p21-lu.pdf",
     "best": {
       "AP": 0.27
     }, 
@@ -1029,6 +1113,7 @@
     "short_cite": "Zamani and Croft (ICTIR 2016)", 
     "is_nn_paper": "yes", 
     "link": "https://dl.acm.org/citation.cfm?id=2970403",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p123-zamani.pdf",
     "best": {
       "AP": 0.2364, 
       "P@5": 0.4730, 
@@ -1044,6 +1129,7 @@
     "short_cite": "Ai et al. (ICTIR 2016)", 
     "is_nn_paper": "yes", 
     "link": "https://dl.acm.org/citation.cfm?id=2970409",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p133-ai.pdf",
     "best": {}, 
     "baseline": {}
   }, 
@@ -1051,6 +1137,7 @@
     "short_cite": "Zamani and Croft (ICTIR 2016)", 
     "is_nn_paper": "yes", 
     "link": "https://dl.acm.org/citation.cfm?id=2970405",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p147-zamani-2016.pdf",
     "best": {
       "AP": 0.275, 
       "P@5": 0.4739, 
@@ -1066,6 +1153,7 @@
     "short_cite": "Guo et al. (CIKM 2016)", 
     "is_nn_paper": "yes", 
     "link": "https://dl.acm.org/citation.cfm?id=2983769",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p55-guo.pdf",
     "best": {
       "AP": 0.279, 
       "P@20": 0.382, 
@@ -1081,6 +1169,7 @@
     "short_cite": "Guo et al. (CIKM 2016)", 
     "is_nn_paper": "yes", 
     "link": "https://dl.acm.org/citation.cfm?id=2983768",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p701-guo.pdf",
     "best": {
       "AP": 0.274, 
       "P@20": 0.38, 
@@ -1096,6 +1185,7 @@
     "short_cite": "Dehghani et al. (CIKM 2016)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=2983814",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p1301-dehghani.pdf",
     "best": {
       "AP": 0.2945, 
       "P@10": 0.4704
@@ -1109,6 +1199,7 @@
     "short_cite": "Anava et al. (CIKM 2016)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=2983739",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p1463-anava.pdf",
     "best": {
       "AP": 0.303, 
       "P@10": 0.472
@@ -1122,6 +1213,7 @@
     "short_cite": "Levi et al. (CIKM 2016)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=2983737",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p1473-levi.pdf",
     "best": {
       "nDCG@10": 0.485, 
       "P@5": 0.512, 
@@ -1137,6 +1229,7 @@
     "short_cite": "Zamani et al. (CIKM 2016)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=2983844",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p1483-zamani.pdf",
     "best": {
       "AP": 0.2899, 
       "P@20": 0.3823, 
@@ -1152,6 +1245,7 @@
     "short_cite": "Kuzi et al. (CIKM 2016)", 
     "is_nn_paper": "yes", 
     "link": "https://dl.acm.org/citation.cfm?id=2983876",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p1929-kuzi.pdf",
     "best": {
       "AP": 0.291, 
       "P@5": 0.495
@@ -1165,6 +1259,7 @@
     "short_cite": "Ariannezhad et al. (ECIR 2017)", 
     "is_nn_paper": "no", 
     "link": "https://link.springer.com/chapter/10.1007/978-3-319-56608-5_65",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/Ariannezhad2017_Chapter_IterativeEstimationOfDocumentR.pdf",
     "best": {
       "AP": 0.2926, 
       "P@10": 0.4442
@@ -1178,6 +1273,7 @@
     "short_cite": "Ensan and Bagheri (WSDM 2017)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=3018692",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p181-ensan.pdf",
     "best": {
       "AP": 0.3382, 
       "P@20": 0.3986, 
@@ -1193,6 +1289,7 @@
     "short_cite": "Dehghani et al. (SIGIR 2017)", 
     "is_nn_paper": "yes", 
     "link": "https://dl.acm.org/citation.cfm?id=3080832",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p65-dehghani.pdf",
     "best": {
       "AP": 0.2837, 
       "P@20": 0.3802, 
@@ -1208,6 +1305,7 @@
     "short_cite": "Zamani and Croft (SIGIR 2017)", 
     "is_nn_paper": "yes", 
     "link": "https://dl.acm.org/citation.cfm?id=3080831",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p505-zamani.pdf",
     "best": {
       "AP": 0.2761, 
       "P@20": 0.3886, 
@@ -1223,6 +1321,7 @@
     "short_cite": "Sherman and Efron (SIGIR 2017)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=3080716",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p1045-sherman.pdf",
     "best": {
       "AP": 0.2674, 
       "nDCG@20": 0.4205
@@ -1236,6 +1335,7 @@
     "short_cite": "Montazeralghaem et al. (SIGIR 2017)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=3080728",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p1085-montazeralghaem.pdf",
     "best": {
       "AP": 0.295, 
       "P@10": 0.453
@@ -1249,6 +1349,7 @@
     "short_cite": "Ariannezhad et al. (SIGIR 2017)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=3080761",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p1201-ariannezhad.pdf",
     "best": {
       "AP": 0.255, 
       "P@10": 0.4353
@@ -1262,6 +1363,7 @@
     "short_cite": "Cummins (ICTIR 2017)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=3121053",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p101-cummins.pdf",
     "best": {
       "nDCG@10": 0.493, 
       "AP": 0.3
@@ -1275,6 +1377,7 @@
     "short_cite": "Raiber and Kurland (ICTIR 2017)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=3121050.3121062",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p117-raiber.pdf",
     "best": {
       "AP": 0.289, 
       "nDCG@20": 0.504, 
@@ -1290,6 +1393,7 @@
     "short_cite": "Na and Kim (IPM 2018)", 
     "is_nn_paper": "no", 
     "link": "https://www.sciencedirect.com/science/article/pii/S0306457317307082",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/1-s2.0-S0306457317307082-main.pdf",
     "best": {
       "AP": 0.3122, 
       "nDCG@20": 0.4679
@@ -1303,6 +1407,7 @@
     "short_cite": "Ai et al. (ECIR 2018)", 
     "is_nn_paper": "yes", 
     "link": "https://link.springer.com/chapter/10.1007/978-3-319-76941-7_41",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/Ai2018_Chapter_ANeuralPassageModelForAd-hocDo.pdf",
     "best": {
       "AP": 0.256
     }, 
@@ -1314,6 +1419,7 @@
     "short_cite": "Zhang et al. (ECIR 2018)", 
     "is_nn_paper": "yes", 
     "link": "https://link.springer.com/chapter/10.1007/978-3-319-76941-7_23",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/Zhang2018_Chapter_AggregatingNeuralWordEmbedding.pdf",
     "best": {
       "AP": 0.256, 
       "P@20": 0.367
@@ -1327,6 +1433,7 @@
     "short_cite": "Zou et al. (ICTIR 2018)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=3234962",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p43-zou.pdf",
     "best": {
       "nDCG@10": 0.469, 
       "AP": 0.257, 
@@ -1342,6 +1449,7 @@
     "short_cite": "Zamani and Croft (ICTIR 2018)", 
     "is_nn_paper": "yes", 
     "link": "https://dl.acm.org/citation.cfm?id=3234968",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p147-zamani-2018.pdf",
     "best": {
       "AP": 0.2831, 
       "P@20": 0.3769, 
@@ -1357,6 +1465,7 @@
     "short_cite": "Li and Jia (CIKM 2018)", 
     "is_nn_paper": "yes", 
     "link": "https://dl.acm.org/citation.cfm?id=3269306",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p1739-li.pdf",
     "best": {
       "AP": 0.296, 
       "P@20": 0.403
@@ -1370,6 +1479,7 @@
     "short_cite": "Bagheri et al. (CIKM 2018)", 
     "is_nn_paper": "yes", 
     "link": "https://dl.acm.org/citation.cfm?id=3269314",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p1635-bagheri.pdf",
     "best": {}, 
     "baseline": {}
   }, 
@@ -1377,6 +1487,7 @@
     "short_cite": "Zamani et al. (CIKM 2018)", 
     "is_nn_paper": "yes", 
     "link": "https://dl.acm.org/citation.cfm?id=3271800",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p497-zamani.pdf",
     "best": {
       "AP": 0.2971, 
       "P@20": 0.3948, 
@@ -1392,6 +1503,7 @@
     "short_cite": "Roy et al. (CIKM 2018)", 
     "is_nn_paper": "yes", 
     "link": "https://dl.acm.org/citation.cfm?id=3269277",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p1835-roy.pdf",
     "best": {
       "AP": 0.2486
     }, 
@@ -1403,6 +1515,7 @@
     "short_cite": "Jian et al. (SIGIR 2018)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=3210147",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p1237-jian.pdf",
     "best": {
       "AP": 0.2637
     }, 
@@ -1414,6 +1527,7 @@
     "short_cite": "Montazeralghaem et al. (SIGIR 2018)", 
     "is_nn_paper": "no", 
     "link": "https://dl.acm.org/citation.cfm?id=3210156",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p1249-montazeralghaem.pdf",
     "best": {
       "AP": 0.2986
     }, 
@@ -1424,7 +1538,8 @@
   {
     "short_cite": "Li et al. (EMNLP 2018)", 
     "is_nn_paper": "yes", 
-    "link": "https://arxiv.org/abs/1810.12936",
+    "link": "https://aclweb.org/anthology/papers/D/D18/D18-1478/",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/D18-1478.pdf",
     "best": {
       "AP": 0.2904, 
       "P@20": 0.4064, 
@@ -1439,7 +1554,8 @@
   {
     "short_cite": "McDonald et al. (EMNLP 2018)", 
     "is_nn_paper": "yes", 
-    "link": "https://arxiv.org/abs/1809.01682",
+    "link": "https://aclweb.org/anthology/papers/D/D18/D18-1211/",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/D18-1211.pdf",
     "best": {
       "AP": 0.272, 
       "P@20": 0.386, 
