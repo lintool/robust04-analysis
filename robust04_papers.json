@@ -2,6 +2,7 @@
   {
     "short_cite": "Diaz (CIKM 2005)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=1099722",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p672-diaz.pdf",
     "best": {
@@ -14,6 +15,7 @@
   {
     "short_cite": "Liu et al. (CIKM 2005)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=1099696",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p525-liu.pdf",
     "best": {
@@ -26,6 +28,7 @@
   {
     "short_cite": "He and Ounis (SIGIR 2005)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=1076114",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p465-he.pdf",
     "best": {
@@ -38,6 +41,7 @@
   {
     "short_cite": "Diaz and Metzler (SIGIR 2006)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=1148200",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p154-diaz.pdf",
     "best": {
@@ -52,6 +56,7 @@
   {
     "short_cite": "Fang and Zhai (SIGIR 2006)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=1148193",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p115-fang.pdf",
     "best": {
@@ -66,6 +71,7 @@
   {
     "short_cite": "Amati (ECIR 2006)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://link.springer.com/chapter/10.1007/11735106_3",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/Amati2006_Chapter_FrequentistAndBayesianApproach.pdf",
     "best": {
@@ -84,6 +90,7 @@
   {
     "short_cite": "Diaz (IRJ 2007)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=1298708.1298734",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/Diaz2007_Article_RegularizingQuery-basedRetriev.pdf",
     "best": {
@@ -96,6 +103,7 @@
   {
     "short_cite": "He and Ounis (TOIS 2007)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=1247719",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/a13-he.pdf",
     "best": {
@@ -108,6 +116,7 @@
   {
     "short_cite": "Zhang et al. (CIKM 2007)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=1321540",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p711-zhang.pdf",
     "best": {
@@ -120,6 +129,7 @@
   {
     "short_cite": "Troy and Zhang (SIGIR 2007)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=1277741.1277844",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p599-troy.pdf",
     "best": {
@@ -134,6 +144,7 @@
   {
     "short_cite": "Vechtomova and Karamuftuoglu (IPM 2008)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://www.sciencedirect.com/science/article/abs/pii/S0306457308000071",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/1-s2.0-S0306457308000071-main.pdf",
     "best": {
@@ -150,6 +161,7 @@
   {
     "short_cite": "Blanco and Barreiro (ECIR 2008)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://link.springer.com/chapter/10.1007/978-3-540-78646-7_36",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/Blanco-Barreiro2008_Chapter_ProbabilisticDocumentLengthPri.pdf",
     "best": {
@@ -164,6 +176,7 @@
   {
     "short_cite": "Bendersky and Croft (SIGIR 2008)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=1390419",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p491-bendersky.pdf",
     "best": {
@@ -178,6 +191,7 @@
   {
     "short_cite": "Meij et al. (SIGIR 2008)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=1390520",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p817-meij.pdf",
     "best": {
@@ -192,6 +206,7 @@
   {
     "short_cite": "Zighelnic and Kurland (SIGIR 2008)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=1390524",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p825-zighelnic.pdf",
     "best": {
@@ -204,6 +219,7 @@
   {
     "short_cite": "Xu et al. (SIGIR 2008)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=1390540",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p855-xu.pdf",
     "best": {
@@ -216,6 +232,7 @@
   {
     "short_cite": "Wu et al. (IPM 2009)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://www.sciencedirect.com/science/article/abs/pii/S0306457309000223",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/1-s2.0-S0306457309000223-main.pdf",
     "best": {
@@ -228,6 +245,7 @@
   {
     "short_cite": "Clinchant and Gaussier (ICTIR 2009)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://link.springer.com/chapter/10.1007/978-3-642-04417-5_6",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/Clinchant-Gaussier2009_Chapter_BridgingLanguageModelingAndDiv.pdf",
     "best": {
@@ -242,6 +260,7 @@
   {
     "short_cite": "Soskin et al. (ICTIR 2009)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://link.springer.com/chapter/10.1007/978-3-642-04417-5_8",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/Soskin2009_Chapter_NavigatingInTheDarkModelingUnc.pdf",
     "best": {
@@ -254,14 +273,23 @@
   {
     "short_cite": "Collins-Thompson (ICTIR 2009)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://link.springer.com/chapter/10.1007/978-3-642-04417-5_25",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/Collins-Thompson2009_Chapter_RobustWordSimilarityEstimation.pdf",
     "best": {},
     "baseline": {}
   },
   {
+    "short_cite": "He and Ounis (CIKM 2009)",
+    "is_neural": "no",
+    "standard_setting": "no",
+    "link": "https://dl.acm.org/citation.cfm?id=1646289",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p2011-he.pdf"
+  },
+  {
     "short_cite": "Zhu et al. (ECIR 2009)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://link.springer.com/chapter/10.1007/978-3-642-00958-7_5",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/Zhu2009_Chapter_Risk-AwareInformationRetrieval.pdf",
     "best": {
@@ -276,6 +304,7 @@
   {
     "short_cite": "Lease et al. (ECIR 2009)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://link.springer.com/chapter/10.1007/978-3-642-00958-7_11",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/Lease2009_Chapter_RegressionRankLearningToMeetTh.pdf",
     "best": {
@@ -288,6 +317,7 @@
   {
     "short_cite": "Collins-Thompson (CIKM 2009)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=1646059",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p837-collins-thompson.pdf",
     "best": {
@@ -302,6 +332,7 @@
   {
     "short_cite": "Xu et al. (SIGIR 2009)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=1571954",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p59-xu.pdf",
     "best": {
@@ -314,6 +345,7 @@
   {
     "short_cite": "Zhu et al. (SIGIR 2009)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=1571961",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p99-zhu.pdf",
     "best": {
@@ -330,6 +362,7 @@
   {
     "short_cite": "Wang and Zhu (SIGIR 2009)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=1571963",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p115-wang.pdf",
     "best": {
@@ -346,6 +379,7 @@
   {
     "short_cite": "Lease (SIGIR 2009)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=1572023",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p476-lease.pdf",
     "best": {
@@ -358,6 +392,7 @@
   {
     "short_cite": "Kalmanovich and Kurland (SIGIR 2009)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=1572058",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p646-kalmanovich.pdf",
     "best": {
@@ -370,6 +405,7 @@
   {
     "short_cite": "Cormack et al. (SIGIR 2009)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=1572114",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p758-cormack.pdf",
     "best": {
@@ -382,6 +418,7 @@
   {
     "short_cite": "Bendersky et al. (SIGIR 2009)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=1572140",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p810-bendersky.pdf",
     "best": {
@@ -394,6 +431,7 @@
   {
     "short_cite": "Zheng and Fang (ECIR 2010)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://link.springer.com/chapter/10.1007/978-3-642-12275-0_31",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/Zheng-Fang2010_Chapter_QueryAspectBasedTermWeightingR.pdf",
     "best": {
@@ -408,6 +446,7 @@
   {
     "short_cite": "Bendersky et al. (WSDM 2010)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=1718492",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p31-bendersky.pdf",
     "best": {
@@ -422,6 +461,7 @@
   {
     "short_cite": "Piwowarski and Frommholz (CIKM 2010)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=1871450",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p59-piwowarski.pdf",
     "best": {
@@ -435,6 +475,7 @@
   {
     "short_cite": "Lang et al. (CIKM 2010)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=1871473",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p249-lang.pdf",
     "best": {
@@ -447,6 +488,7 @@
   {
     "short_cite": "Xue et al. (CIKM 2010)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=1871572",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p1059-xue.pdf",
     "best": {
@@ -461,6 +503,7 @@
   {
     "short_cite": "Dillon and Collins-Thompson (CIKM 2010)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=1871573",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p1069-dillon.pdf",
     "best": {
@@ -475,6 +518,7 @@
   {
     "short_cite": "Clinchant and Gaussier (SIGIR 2010)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=1835490",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p234-clinchant.pdf",
     "best": {
@@ -487,6 +531,7 @@
   {
     "short_cite": "Dang et al. (SIGIR 2010)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=1835626",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p807-dang.pdf",
     "best": {
@@ -499,6 +544,7 @@
   {
     "short_cite": "Park and Croft (SIGIR 2010)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=1835637",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p829-park.pdf",
     "best": {
@@ -511,6 +557,7 @@
   {
     "short_cite": "Clinchant and Gaussier (IRJ 2011)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://link.springer.com/article/10.1007/s10791-010-9143-7",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/Clinchant-Gaussier2011_Article_RetrievalConstraintsAndWordFre.pdf",
     "best": {
@@ -523,8 +570,9 @@
     }
   },
   {
-    "short_cite": "Clinchant and Gaussier  (ICTIR 2011)",
+    "short_cite": "Clinchant and Gaussier (ICTIR 2011)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://link.springer.com/chapter/10.1007/978-3-642-23318-0_10",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/Clinchant-Gaussier2011_Chapter_IsDocumentFrequencyImportantFo.pdf",
     "best": {
@@ -535,8 +583,16 @@
     }
   },
   {
+    "short_cite": "Hui et al. (ICTIR 2011)",
+    "is_neural": "no",
+    "standard_setting": "no",
+    "link": "https://link.springer.com/chapter/10.1007/978-3-642-23318-0_30",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/Hui2011_Chapter_AComparativeStudyOfPseudoRelev.pdf"
+  },
+  {
     "short_cite": "Lv and Zhai (CIKM 2011)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=2063584",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p7-lv.pdf",
     "best": {
@@ -549,6 +605,7 @@
   {
     "short_cite": "Park et al. (CIKM 2011)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=2063585",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p17-park.pdf",
     "best": {
@@ -563,6 +620,7 @@
   {
     "short_cite": "Karimzadehgan and Zhai (CIKM 2011)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=2063586",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p27-karimzadehgan.pdf",
     "best": {},
@@ -571,6 +629,7 @@
   {
     "short_cite": "Hui et al. (CIKM 2011)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=2063595",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p99-hui.pdf",
     "best": {
@@ -583,6 +642,7 @@
   {
     "short_cite": "Kotov and Zhai (CIKM 2011)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=2063605",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p163-kotov.pdf",
     "best": {},
@@ -591,6 +651,7 @@
   {
     "short_cite": "Lv and Zhai (CIKM 2011)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=2063871",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p1985-lv.pdf",
     "best": {
@@ -603,6 +664,7 @@
   {
     "short_cite": "Lv and Zhai (SIGIR 2011)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=2010070",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p1103-lv.pdf",
     "best": {
@@ -617,6 +679,7 @@
   {
     "short_cite": "Xue and Croft (SIGIR 2011)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=2010085",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p1133-xue.pdf",
     "best": {
@@ -631,6 +694,7 @@
   {
     "short_cite": "Blanco and Lioma (IRJ 2012)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://link.springer.com/article/10.1007/s10791-011-9172-x",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/Blanco-Lioma2012_Article_Graph-basedTermWeightingForInf.pdf",
     "best": {
@@ -645,6 +709,7 @@
   {
     "short_cite": "Lv and Zhai (ECIR 2012)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://link.springer.com/chapter/10.1007/978-3-642-28997-2_21",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/Lv-Zhai2012_Chapter_ALog-LogisticModel-BasedInterp.pdf",
     "best": {
@@ -657,6 +722,7 @@
   {
     "short_cite": "Bendersky et al. (WSDM 2012)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=2124349",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p443-bendersky.pdf",
     "best": {
@@ -671,6 +737,7 @@
   {
     "short_cite": "Lv and Zhai (CIKM 2012)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=2398520",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p1799-lv.pdf",
     "best": {
@@ -685,6 +752,7 @@
   {
     "short_cite": "Xue and Croft (SIGIR 2012)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=2348355",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p525-xue.pdf",
     "best": {
@@ -701,6 +769,7 @@
   {
     "short_cite": "Bendersky and Croft (SIGIR 2012)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=2348408",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p941-bendersky.pdf",
     "best": {
@@ -713,6 +782,7 @@
   {
     "short_cite": "Huang et al. (IPM 2013)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://www.sciencedirect.com/science/article/pii/S0306457312001082",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/1-s2.0-S0306457312001082-main.pdf",
     "best": {
@@ -725,6 +795,7 @@
   {
     "short_cite": "Na (IPM 2013)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://www.sciencedirect.com/science/article/pii/S0306457312001215",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/1-s2.0-S0306457312001215-main.pdf",
     "best": {
@@ -739,6 +810,7 @@
   {
     "short_cite": "Xue and Croft (TOIS 2013)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=2457466",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/a6-xue.pdf",
     "best": {
@@ -753,6 +825,7 @@
   {
     "short_cite": "Clinchant and Gaussier (ICTIR 2013)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=2499179",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/ICTIR13_Proceedings-paper6.pdf",
     "best": {
@@ -763,8 +836,23 @@
     }
   },
   {
+    "short_cite": "Wu and Fang (ICTIR 2013)",
+    "is_neural": "no",
+    "standard_setting": "no",
+    "link": "https://dl.acm.org/citation.cfm?id=2499192",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/ICTIR13_Proceedings-paper16.pdf"
+  },
+  {
+    "short_cite": "Clinchant and Perronnin (ICTIR 2013)",
+    "is_neural": "no",
+    "standard_setting": "no",
+    "link": "https://dl.acm.org/citation.cfm?id=2499180",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/ICTIR13_Proceedings-paper25.pdf"
+  },
+  {
     "short_cite": "Rousseau and Vazirgiannis (CIKM 2013)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=2505671",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p59-rousseau.pdf",
     "best": {
@@ -779,6 +867,7 @@
   {
     "short_cite": "Raiber and Kurland (SIGIR 2013)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=2484042",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p333-raiber.pdf",
     "best": {},
@@ -787,6 +876,7 @@
   {
     "short_cite": "Maxwell and Croft (SIGIR 2013)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=2484096",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p583-maxwell.pdf",
     "best": {
@@ -801,6 +891,7 @@
   {
     "short_cite": "Deveaud et al. (SIGIR 2013)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=2484148",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p1001-deveaud.pdf",
     "best": {},
@@ -809,6 +900,7 @@
   {
     "short_cite": "Symonds et al. (JASIST 2014)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://onlinelibrary.wiley.com/doi/full/10.1002/asi.23065",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/Symonds_et_al-2014-Journal_of_the_Association_for_Information_Science_and_Technology.pdf",
     "best": {
@@ -823,6 +915,7 @@
   {
     "short_cite": "Brosseau-Villeneuve et al. (IRJ 2014)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://link.springer.com/article/10.1007/s10791-013-9220-9",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/Brosseau-Villeneuve2014_Article_LatentWordContextModelForInfor.pdf",
     "best": {
@@ -840,6 +933,7 @@
   {
     "short_cite": "Kocabas et al. (IRJ 2014)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://link.springer.com/article/10.1007/s10791-013-9225-4",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/Kocabaş2014_Article_ANonparametricTermWeightingMet.pdf",
     "best": {
@@ -852,6 +946,7 @@
   {
     "short_cite": "Zhao et al. (TOIS 2014)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=2590988",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/a7-zhao.pdf",
     "best": {
@@ -864,8 +959,16 @@
     }
   },
   {
+    "short_cite": "Huston and Croft (CIKM 2014)",
+    "is_neural": "no",
+    "standard_setting": "no",
+    "link": "https://dl.acm.org/citation.cfm?id=2661894",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p111-huston.pdf"
+  },
+  {
     "short_cite": "Ye and Huang (SIGIR 2014)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=2609636",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p323-ye.pdf",
     "best": {
@@ -880,6 +983,7 @@
   {
     "short_cite": "Dalton et al. (SIGIR 2014)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=2609628",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p365-dalton.pdf",
     "best": {
@@ -896,6 +1000,7 @@
   {
     "short_cite": "Lv and Zhai (IRJ 2015)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://link.springer.com/article/10.1007/s10791-015-9257-z",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/Lv-Zhai2015_Article_NegativeQueryGenerationBridgin.pdf",
     "best": {
@@ -910,6 +1015,7 @@
   {
     "short_cite": "Na (TOIS 2015)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=2699669",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/a8-na.pdf",
     "best": {
@@ -920,8 +1026,16 @@
     }
   },
   {
+    "short_cite": "Costa et al. (TOIS 2015)",
+    "is_neural": "no",
+    "standard_setting": "no",
+    "link": "https://dl.acm.org/citation.cfm?id=2809787",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/a6-costa.pdf"
+  },
+  {
     "short_cite": "Raiber et al. (ICTIR 2015)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=2809454",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p281-raiber.pdf",
     "best": {
@@ -934,6 +1048,7 @@
   {
     "short_cite": "Diaz (ICTIR 2015)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=2809491",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p313-diaz.pdf",
     "best": {
@@ -950,6 +1065,7 @@
   {
     "short_cite": "Lv (CIKM 2015)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=2806592",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p1747-lv.pdf",
     "best": {
@@ -964,6 +1080,7 @@
   {
     "short_cite": "Zheng and Callan (SIGIR 2015)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=2767700",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p575-zheng.pdf",
     "best": {
@@ -980,6 +1097,7 @@
   {
     "short_cite": "Ye and Huang (JASIST 2016)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://onlinelibrary.wiley.com/doi/full/10.1002/asi.23430",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/Ye_et_al-2016-Journal_of_the_Association_for_Information_Science_and_Technology.pdf",
     "best": {
@@ -996,6 +1114,7 @@
   {
     "short_cite": "Miao et al. (TOIS 2016)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=2956234",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/a22-miao.pdf",
     "best": {
@@ -1008,6 +1127,7 @@
   {
     "short_cite": "Diaz (ECIR 2016)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://link.springer.com/chapter/10.1007/978-3-319-30671-1_38",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/Diaz2016_Chapter_Pseudo-QueryReformulation.pdf",
     "best": {
@@ -1024,6 +1144,7 @@
   {
     "short_cite": "Balaneshinkordan and Kotov (ECIR 2016)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://link.springer.com/chapter/10.1007/978-3-319-30671-1_65",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/Balaneshinkordan-Kotov2016_Chapter_AnEmpiricalComparisonOfTermAss.pdf",
     "best": {
@@ -1040,6 +1161,7 @@
   {
     "short_cite": "Cummins (WWW 2016)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=2883009",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p795-cummins.pdf",
     "best": {
@@ -1054,6 +1176,7 @@
   {
     "short_cite": "Raviv et al. (SIGIR 2016)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=2911508",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p65-raviv.pdf",
     "best": {
@@ -1070,6 +1193,7 @@
   {
     "short_cite": "Montazeralghaem et al. (SIGIR 2016)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=2914768",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p765-montazeralghaem.pdf",
     "best": {
@@ -1084,6 +1208,7 @@
   {
     "short_cite": "Ai et al. (SIGIR 2016)",
     "is_neural": "yes",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=2914688",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p869-ai.pdf",
     "best": {
@@ -1100,6 +1225,7 @@
   {
     "short_cite": "Lu et al. (ICTIR 2016)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=2970404",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p21-lu.pdf",
     "best": {
@@ -1112,6 +1238,7 @@
   {
     "short_cite": "Zamani and Croft (ICTIR 2016)",
     "is_neural": "yes",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=2970403",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p123-zamani.pdf",
     "best": {
@@ -1128,6 +1255,7 @@
   {
     "short_cite": "Ai et al. (ICTIR 2016)",
     "is_neural": "yes",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=2970409",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p133-ai.pdf",
     "best": {},
@@ -1136,6 +1264,7 @@
   {
     "short_cite": "Zamani and Croft (ICTIR 2016)",
     "is_neural": "yes",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=2970405",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p147-zamani-2016.pdf",
     "best": {
@@ -1150,8 +1279,16 @@
     }
   },
   {
+    "short_cite": "Balaneshin-kordan and Kotov (ICTIR 2016)",
+    "is_neural": "no",
+    "standard_setting": "no",
+    "link": "https://dl.acm.org/citation.cfm?id=2970439",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p233-balaneshin-kordan.pdf"
+  },
+  {
     "short_cite": "Guo et al. (CIKM 2016)",
     "is_neural": "yes",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=2983769",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p55-guo.pdf",
     "best": {
@@ -1166,8 +1303,16 @@
     }
   },
   {
+    "short_cite": "Balaneshin-kordan and Kotov (CIKM 2016)",
+    "is_neural": "no",
+    "standard_setting": "no",
+    "link": "https://dl.acm.org/citation.cfm?id=2983857",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p155-balaneshin-kordan.pdf"
+  },
+  {
     "short_cite": "Guo et al. (CIKM 2016)",
     "is_neural": "yes",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=2983768",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p701-guo.pdf",
     "best": {
@@ -1184,6 +1329,7 @@
   {
     "short_cite": "Dehghani et al. (CIKM 2016)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=2983814",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p1301-dehghani.pdf",
     "best": {
@@ -1198,6 +1344,7 @@
   {
     "short_cite": "Anava et al. (CIKM 2016)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=2983739",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p1463-anava.pdf",
     "best": {
@@ -1212,6 +1359,7 @@
   {
     "short_cite": "Levi et al. (CIKM 2016)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=2983737",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p1473-levi.pdf",
     "best": {
@@ -1228,6 +1376,7 @@
   {
     "short_cite": "Zamani et al. (CIKM 2016)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=2983844",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p1483-zamani.pdf",
     "best": {
@@ -1244,6 +1393,7 @@
   {
     "short_cite": "Kuzi et al. (CIKM 2016)",
     "is_neural": "yes",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=2983876",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p1929-kuzi.pdf",
     "best": {
@@ -1258,6 +1408,7 @@
   {
     "short_cite": "Ariannezhad et al. (ECIR 2017)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://link.springer.com/chapter/10.1007/978-3-319-56608-5_65",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/Ariannezhad2017_Chapter_IterativeEstimationOfDocumentR.pdf",
     "best": {
@@ -1270,8 +1421,16 @@
     }
   },
   {
+    "short_cite": "Yang and Fang (ICTIR 2017)",
+    "is_neural": "no",
+    "standard_setting": "no",
+    "link": "https://dl.acm.org/citation.cfm?id=3121050.3121056",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p43-yang.pdf"
+  },
+  {
     "short_cite": "Ensan and Bagheri (WSDM 2017)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=3018692",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p181-ensan.pdf",
     "best": {
@@ -1288,6 +1447,7 @@
   {
     "short_cite": "Dehghani et al. (SIGIR 2017)",
     "is_neural": "yes",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=3080832",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p65-dehghani.pdf",
     "best": {
@@ -1304,6 +1464,7 @@
   {
     "short_cite": "Zamani and Croft (SIGIR 2017)",
     "is_neural": "yes",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=3080831",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p505-zamani.pdf",
     "best": {
@@ -1320,6 +1481,7 @@
   {
     "short_cite": "Sherman and Efron (SIGIR 2017)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=3080716",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p1045-sherman.pdf",
     "best": {
@@ -1334,6 +1496,7 @@
   {
     "short_cite": "Montazeralghaem et al. (SIGIR 2017)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=3080728",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p1085-montazeralghaem.pdf",
     "best": {
@@ -1348,6 +1511,7 @@
   {
     "short_cite": "Ariannezhad et al. (SIGIR 2017)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=3080761",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p1201-ariannezhad.pdf",
     "best": {
@@ -1362,6 +1526,7 @@
   {
     "short_cite": "Cummins (ICTIR 2017)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=3121053",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p101-cummins.pdf",
     "best": {
@@ -1376,6 +1541,7 @@
   {
     "short_cite": "Raiber and Kurland (ICTIR 2017)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=3121050.3121062",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p117-raiber.pdf",
     "best": {
@@ -1392,6 +1558,7 @@
   {
     "short_cite": "Na and Kim (IPM 2018)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://www.sciencedirect.com/science/article/pii/S0306457317307082",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/1-s2.0-S0306457317307082-main.pdf",
     "best": {
@@ -1404,8 +1571,23 @@
     }
   },
   {
+    "short_cite": "Hubert et al. (IPM 2018)",
+    "is_neural": "no",
+    "standard_setting": "no",
+    "link": "https://www.sciencedirect.com/science/article/abs/pii/S0306457316305222",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/1-s2.0-S0306457316305222-main.pdf"
+  },
+  {
+    "short_cite": "Van Gysel et al. (TOIS 2018)",
+    "is_neural": "no",
+    "standard_setting": "no",
+    "link": "https://dl.acm.org/citation.cfm?id=3196826",
+    "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/a38-gysel.pdf"
+  },
+  {
     "short_cite": "Ai et al. (ECIR 2018)",
     "is_neural": "yes",
+    "standard_setting": "yes",
     "link": "https://link.springer.com/chapter/10.1007/978-3-319-76941-7_41",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/Ai2018_Chapter_ANeuralPassageModelForAd-hocDo.pdf",
     "best": {
@@ -1418,6 +1600,7 @@
   {
     "short_cite": "Zhang et al. (ECIR 2018)",
     "is_neural": "yes",
+    "standard_setting": "yes",
     "link": "https://link.springer.com/chapter/10.1007/978-3-319-76941-7_23",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/Zhang2018_Chapter_AggregatingNeuralWordEmbedding.pdf",
     "best": {
@@ -1432,6 +1615,7 @@
   {
     "short_cite": "Zou et al. (ICTIR 2018)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=3234962",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p43-zou.pdf",
     "best": {
@@ -1448,6 +1632,7 @@
   {
     "short_cite": "Zamani and Croft (ICTIR 2018)",
     "is_neural": "yes",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=3234968",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p147-zamani-2018.pdf",
     "best": {
@@ -1464,6 +1649,7 @@
   {
     "short_cite": "Li and Jia (CIKM 2018)",
     "is_neural": "yes",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=3269306",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p1739-li.pdf",
     "best": {
@@ -1478,6 +1664,7 @@
   {
     "short_cite": "Bagheri et al. (CIKM 2018)",
     "is_neural": "yes",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=3269314",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p1635-bagheri.pdf",
     "best": {},
@@ -1486,6 +1673,7 @@
   {
     "short_cite": "Zamani et al. (CIKM 2018)",
     "is_neural": "yes",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=3271800",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p497-zamani.pdf",
     "best": {
@@ -1502,6 +1690,7 @@
   {
     "short_cite": "Roy et al. (CIKM 2018)",
     "is_neural": "yes",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=3269277",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p1835-roy.pdf",
     "best": {
@@ -1514,6 +1703,7 @@
   {
     "short_cite": "Jian et al. (SIGIR 2018)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=3210147",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p1237-jian.pdf",
     "best": {
@@ -1526,6 +1716,7 @@
   {
     "short_cite": "Montazeralghaem et al. (SIGIR 2018)",
     "is_neural": "no",
+    "standard_setting": "yes",
     "link": "https://dl.acm.org/citation.cfm?id=3210156",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/p1249-montazeralghaem.pdf",
     "best": {
@@ -1538,6 +1729,7 @@
   {
     "short_cite": "Li et al. (EMNLP 2018)",
     "is_neural": "yes",
+    "standard_setting": "yes",
     "link": "https://aclweb.org/anthology/papers/D/D18/D18-1478/",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/D18-1478.pdf",
     "best": {
@@ -1554,6 +1746,7 @@
   {
     "short_cite": "McDonald et al. (EMNLP 2018)",
     "is_neural": "yes",
+    "standard_setting": "yes",
     "link": "https://aclweb.org/anthology/papers/D/D18/D18-1211/",
     "cached_pdf": "https://lintool.github.io/robust04-analysis-papers/D18-1211.pdf",
     "best": {
