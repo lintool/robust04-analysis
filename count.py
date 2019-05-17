@@ -1,7 +1,3 @@
-"""
-Convert the json file to MD for readibility
-"""
-
 from __future__ import print_function
 import argparse
 import json
