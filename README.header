@@ -1,6 +1,6 @@
 # Meta-Analysis of Robust04 Papers
 
-This repro contains raw data from a meta-analysis of papers that use the test collection from the TREC 2004 Robust Track, as described in the following paper:
+This repro contains raw data from a meta-analysis of papers that used the test collection from the TREC 2004 Robust Track (Robust04), as described in:
 
 + Wei Yang, Kuang Lu, Peilin Yang, and Jimmy Lin. Critically Examining the "Neural Hype": Weak Baselines and the Additivity of Effectiveness Gains from Neural Ranking Models. Proceedings of the 42nd Annual International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2019), July 2018, Paris, France.
 
@@ -8,11 +8,11 @@ This repro contains raw data from a meta-analysis of papers that use the test co
 
 We exhaustively examined every publication from 2005 to 2018 in the following venues to identify those that reported results on Robust04: SIGIR, CIKM, WWW, ICTIR, ECIR, KDD, WSDM, TOIS, IRJ, IPM, and JASIST.
 This was supplemented by Google Scholar searches to identify a few additional papers not in the venues indicated above.
-Our meta-analysis was conducted in January 2019, but after the paper acceptance we included a few additional papers.
-A few exclusion criteria were applied, best characterized as discarding corner cases: for example, papers that only used a subset of the topics or papers that had metrics plotted in a graph.
+Our meta-analysis was conducted in January 2019, but after the paper acceptance we included a few more papers.
+A number of exclusion criteria were applied, best characterized as discarding corner cases: for example, papers that only used a subset of the topics or papers that had metrics plotted in a graph.
 
 For each of the 109 papers, we extracted the highest average precision score achieved on Robust04 by the authors' proposed methods, regardless of experimental condition (ignoring oracle conditions and other unrealistic setups). 
-Some papers do not report AP, and therefore were excluded from our analysis.
+Some papers did not report AP, and therefore were excluded from our analysis.
 We further categorized the papers into neural (18) and non-neural (91) approaches.
 Methods that used word embeddings but not neural networks directly in ranking were considered "neural" in our classification.
 
@@ -34,8 +34,9 @@ Finally, we show the effectiveness of an untuned RM3 run (i.e., default paramete
 ## Results
 
 The follow results table is generated via the Python script `json_to_md.py`, which summarizes the raw results in [`robust04_papers.json`](robust04_papers.json).
-The column "standard" indicates if the paper uses a "standard" configuration of Robust04; a non-standard configuration might be an evaluation that uses only a subset of the topics.
-For the "non-standard" papers we do not extract effectiveness metrics, and in some of the "standard" papers effectiveness metrics are not easily extractable (e.g., they are presented in a graph).
+The column "standard" indicates if the paper used a "standard" configuration of Robust04; a non-standard configuration might be an evaluation that uses only a subset of the topics.
+For the "non-standard" papers we did not extract effectiveness metrics, and in some of the "standard" papers effectiveness metrics were not easily extractable (e.g., they are presented in a graph).
+In both cases AP values in the table were left blank.
 
 
 
