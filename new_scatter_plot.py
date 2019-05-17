@@ -96,7 +96,7 @@ def main():
     plt.xticks( np.arange(len(years))  , years )
 
     # add different shades to different years
-    shade = [0.0, 0.2]
+    shade = [0.0, 0.15]
     idx = 0
     for i in range(len(years)):
         plt.axvspan(i - 0.5, i + 0.5, facecolor='k',alpha=shade[idx % 2])
@@ -108,7 +108,8 @@ def main():
     plt.ylabel(args.metric)
     plt.legend(loc=1)
     # plt.savefig('{}.eps'.format(args.destfile_name),  bbox_inches='tight', format='eps', rasterized=True)
-    plt.savefig('{}.svg'.format(args.destfile_name),  bbox_inches='tight', format='svg')
+    # plt.savefig('{}.svg'.format(args.destfile_name),  bbox_inches='tight', format='svg')
+    plt.savefig('{}.pdf'.format(args.destfile_name),  bbox_inches='tight', format='pdf')
 
 
 if __name__ == '__main__':
