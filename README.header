@@ -10,13 +10,14 @@ We exhaustively examined every publication from 2005 to 2018 in the following ve
 This was supplemented by Google Scholar searches to identify a few additional papers not in the venues indicated above.
 Our meta-analysis was conducted in January 2019, but after the paper acceptance we included a few more papers.
 A number of exclusion criteria were applied, best characterized as discarding corner cases: for example, papers that only used a subset of the topics or papers that had metrics plotted in a graph.
+In total, we examined 130 papers; of these, 109 papers contained extractable average precision values that formed the basis of the results reported below.
+Note that some papers did not report AP, and thus were excluded from consideration.
 
 For each of the 109 papers, we extracted the highest average precision score achieved on Robust04 by the authors' proposed methods, regardless of experimental condition (ignoring oracle conditions and other unrealistic setups). 
-Some papers did not report AP, and therefore were excluded from our analysis.
 We further categorized the papers into neural (18) and non-neural (91) approaches.
 Methods that used word embeddings but not neural networks directly in ranking were considered "neural" in our classification.
-
-As of the submission of the final camera-ready version of the SIGIR paper, we examined a total of 130 papers; of these, 109 papers contained extractable average precision values that formed the basis of our meta-analysis.
+From each paper we also extracted the authors' baseline: in most cases, these were explicitly defined; if multiple were presented, we selected the best.
+If the paper did not explicitly mention a baseline, we selected the best comparison condition using a method not by the authors (or based on previous work).
 
 ## Overview
 
