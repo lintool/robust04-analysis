@@ -50,9 +50,12 @@ def main():
     parser.add_argument('--destfile_name','-df',default='scatter')
     args=parser.parse_args()
 
+    matplotlib.rcParams['ps.useafm'] = True
+    matplotlib.rcParams['pdf.use14corefonts'] = True
+    matplotlib.rcParams['text.usetex'] = True
+    
     fig, ax = plt.subplots(figsize=[15,5])
-    # fig.set_rasterized(True)
-    # ax.set_rasterized(True)
+    
 
     paper_info = json.load(open(args.json_file))
 
